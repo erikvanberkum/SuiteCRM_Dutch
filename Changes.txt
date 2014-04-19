@@ -1,0 +1,68 @@
+/**
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com)
+ * All rights reserved.
+ *
+ * Permission is granted for use, copying, modification, distribution,
+ * and distribution of modified versions of this work as long as the
+ * above copyright notice is included.
+ */
+
+Developers change notes sugarCRM Dutch Language Files to SuiteCRM 7.1.0
+
+Diff modules/Accounts/language/nl_NL.lang.php   added various variables, updated spelling errors
+Diff modules/ACL/language/nl_NL.lang.php added 2 new variables
+Diff module/ACLActions/language/nl_NL.lang.php rewrote whole file
+Diff modules/ACLRoles/language/  no changes
+Created following missing directories:
+    AOD_IndexEvent/language
+    AOP_Case_Events/language
+    AOP_Case_Events//language
+    AOP_Case_Updates /language
+    AOR_Charts/language/language
+    AOR_Conditions/language
+    AOR_Fields/language
+    AOR_Reports/language
+    AOS_Contracts/language/nl_nl.lang.php   (added existing file)
+    AOS_Invoices/language/nl_nl.lang.php
+    AOS_Line_Item_Groups/language/nl_nl.lang.php
+    AOS_PDF_Templates/language/nl_nl.lang.php
+    AOS_Product_Categories/language/
+    AOS_Products/language/nl_nl.lang.php
+    AOS_Products_Quotes/language/nl_nl.lang.php
+    AOS_Quotes/language/nl_nl.lang.php
+    AOW_Actions/language/
+    AOW_Conditions/language/
+    AOW_Processed/language/
+    AOW_WorkFlow/language/
+    Calls_Reschedule/languages
+    Delegates/languages
+    FP_Event_Locations/language
+    FP_Event/language
+    iCals/language
+    jjwg_Address_Cache/language
+    jjwg_Areas/language
+    jjwg_Maps/language
+    jjwg_Markers/language
+    SecurityGroups/language
+    vCals/language
+    AOD_IndexEvent
+Marked following directories as obsolate:    
+    Dashboard_obsolate
+    EditCustomFields_obsolate
+    Feeds_obsolate
+    iFrames_obsolate
+    modules/Activities/language/l_NL.help.index.html obsolate
+    modules/Bugs/language/set of html files obsolate
+    modules/Calendar/language/ contains html file
+Diff modules/Activities/language/nl_NL.lang.php no changes bottom file order not similar
+To translate modules/Administration/nl_NL.lang.php this is 1100 lines of translation work
+Translated modules/AOD_Index
+SuiteCRM File modules/AOS_Contracts/language/nl_nl.lang.php
+SuiteCRM File modules/AOS_Invoices/language/nl_nl.lang.php
+SuiteCRM File modules/AOS_Line_Groups/language/nl_nl.lang.php
+SuiteCRM File modules/AOS_PDF_Templates/language/nl_nl.lang.php
+SuiteCRM File modules/AOS_Products/language/nl_nl.lang.php
+SuiteCRM File modules/AOS_Products_Quotes/language/nl_nl.lang.php
+SuiteCRM File modules/AOS_Quotes/language/nl_nl.lang.php
+Diff modules/Audit/language/nl_NL.lang.php no changes detected
+Diff modules/Bugs/language/nl_NL.lang.php  minor changes detected

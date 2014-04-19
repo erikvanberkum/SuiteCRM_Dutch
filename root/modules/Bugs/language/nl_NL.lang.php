@@ -3,6 +3,7 @@ if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 
 /**
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com)
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * Copyright (c) 2007-2009 Madcap BV (http://www.madcap.nl)
  * All rights reserved.
@@ -44,6 +45,7 @@ $mod_strings = array (
   'LBL_RELEASE' => 'Release:',
   'LNK_NEW_BUG' => 'Bug aanmelden',
   'LNK_BUG_LIST' => 'Bugs',
+  'LNK_IMPORT_BUGS' => 'Importeer Bugs',
   'NTC_REMOVE_INVITEE' => 'Weet u zeker dat u deze contactpersoon wilt verwijderen bij deze bug?',
   'NTC_REMOVE_ACCOUNT_CONFIRMATION' => 'Weet u zeker dat u deze bug wilt verwijderen bij deze relatie?',
   'ERR_DELETE_RECORD' => 'Er dient een recordnummer te worden gespecificeerd voor het verwijderen van een bug',
@@ -73,7 +75,6 @@ $mod_strings = array (
   'LBL_SYSTEM_ID' => 'Systeem ID',
   'LBL_LIST_ASSIGNED_TO_NAME' => 'Toegewezen gebruiker',
   'LBL_ASSIGNED_TO_NAME' => 'Toegewezen aan naam',
-'LNK_IMPORT_BUGS' => 'Importeer bugs',
 'LBL_BUG_INFORMATION' => 'Overzicht Bugs',
 'LBL_DOCUMENTS_SUBPANEL_TITLE' => 'Documenten',
 'LBL_DOCUMENTS_SUBPANEL_TITLE' => 'Documenten',

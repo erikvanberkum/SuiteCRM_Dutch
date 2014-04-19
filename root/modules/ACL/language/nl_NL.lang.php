@@ -3,6 +3,7 @@ if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 
 /**
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com) 
  * Copyright (c) 2007 Madcap BV (http://www.madcap.nl)
  * All rights reserved.
  *
@@ -24,5 +25,7 @@ $mod_strings = array (
   'LBL_ROLES_SUBPANEL_TITLE' => 'Gebruikers rollen',
   'LBL_SEARCH_FORM_TITLE' => 'Zoeken',
   'LBL_NO_ACCESS' => 'Je hebt geen toegangsrechten tot deze plek. Neem contact op met de beheerder als je toegang zou moeten hebben.',
+  'LBL_REDIRECT_TO_HOME'=>'Doorsturen naar Start in',
+  'LBL_SECONDS'=>'seconden',
   'LBL_ADDING' => 'Toevoegen aan'
 );

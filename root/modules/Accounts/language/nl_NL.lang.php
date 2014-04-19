@@ -1,6 +1,7 @@
 <?php
 if (!defined('sugarEntry') || !sugarEntry)   die('Not A Valid Entry Point');
 /**
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com) 
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * Copyright (c) 2007-2009 Madcap BV (http://www.madcap.nl)
  * All rights reserved.
@@ -58,11 +59,14 @@ $mod_strings = array (
   'LBL_DESCRIPTION' => 'Omschrijving:',
   'LBL_DUPLICATE' => 'Mogelijk dubbele relatie',
   'LBL_EMAIL' => 'E-mail:',
+  'LBL_EMAIL_OPT_OUT' => 'E-mail uitschrijven:',
   'LBL_EMPLOYEES' => 'Aantal werknemers:',
+  'LBL_EMAIL_ADDRESSES' => 'Email Adres',
   'LBL_FAX' => 'Fax:',
   'LBL_HISTORY_SUBPANEL_TITLE' => 'Geschiedenis',
   'LBL_HOMEPAGE_TITLE' => 'Mijn relaties',
   'LBL_INDUSTRY' => 'Branche:',
+  'LBL_INVALID_EMAIL'=>'Ongeldige E-mail:',
   'LBL_INVITEE' => 'Contactpersonen',
   'LBL_LEADS_SUBPANEL_TITLE' => 'Leads',
   'LBL_LIST_ACCOUNT_NAME' => 'Relatienaam',
@@ -153,12 +157,11 @@ $mod_strings = array (
 'NTC_COPY_BILLING_ADDRESS2' => 'Kopiëren naar verzendadres',
 'LBL_PROJECT_SUBPANEL_TITLE' => 'Projecten',
 'LBL_DOCUMENTS_SUBPANEL_TITLE' => 'Documenten',
-'LBL_EMAIL_ADDRESSES' => 'Email adressen',
+'LBL_EMAIL_ADDRESSES' => 'E-mail adressen',
 'LBL_COPY' => 'Kopieer',
 'LBL_ACCOUNT_TYPE' => 'Relatie type',
 'LBL_PARENT_ID' => 'Parent ID ',
 'LBL_PHONE_ALTERNATE' => 'Telefoon alternatief',
-'LBL_EXPORT_ASSIGNED_USER_NAME' => 'Tiegewezen gebruikersnaam',
-'LBL_EXPORT_ASSIGNED_USER_NAME' => 'Tiegewezen gebruikersnaam',
-'LBL_CONTACT_HISTORY_SUBPANEL_TITLE' => 'Emails gerelateerde contactpersonen',
+'LBL_EXPORT_ASSIGNED_USER_NAME' => 'Toegewezen gebruikersnaam',
+'LBL_CONTACT_HISTORY_SUBPANEL_TITLE' => 'E-mails gerelateerde contactpersonen',
 );
