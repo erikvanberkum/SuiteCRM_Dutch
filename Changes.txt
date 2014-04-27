@@ -70,7 +70,9 @@ Diff modules/Bugs/language/nl_NL.lang.php  minor changes detected
 GitHub Commit Changes 20140401
 Diff modules/Calendar/language/nl_NL.lang.php
   remark days and months different notation: '0' => 'Zo', versus in english "Sun",
-Diff 
+Diff modules/Calls/language/nl_NL.lang.php
+Diff modules/Calls_Reschedule/language/nl_NL.lang.php  translated all new file.
+
 
 
 

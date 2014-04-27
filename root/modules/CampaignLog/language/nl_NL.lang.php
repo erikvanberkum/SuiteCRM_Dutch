@@ -2,6 +2,7 @@
 if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 /**
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com) 
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * Copyright (c) 2007-2009 Madcap BV (http://www.madcap.nl)
  * All rights reserved.
@@ -53,6 +54,9 @@ $mod_strings = array (
   'LBL_CAMPAIGN_CONTENT' => 'Beschrijving: ',
   'LBL_CREATED_LEAD' => 'Gemaakte lead',
   'LBL_CREATED_CONTACT' => 'Gemaakt contactpersoon',
+  'LBL_CREATED_OPPORTUNITY' => 'Gemaakte kans',
+  'LBL_TARGETED_USER' => 'Doel gebruiker',   
+  'LBL_SENT_EMAIL' => 'Verstuur e-mail',
   'LBL_LIST_FORM_TITLE' => 'Targeted campagnes',
   'LBL_LIST_ACTIVITY_DATE' => 'Activiteitsdatum',
   'LBL_LIST_CAMPAIGN_OBJECTIVE' => 'Campagne doel',
@@ -60,8 +64,8 @@ $mod_strings = array (
   'LBL_CLICKED_URL_KEY' => 'Aangeklikte URL',
   'LBL_URL_CLICKED' => 'URL aangeklikt',
   'LBL_MORE_INFO' => 'Meer informatie',
-'LBL_CAMPAIGNS' => 'Campagnes',
-//610
-'LBL_LIST_MARKETING_NAME' => 'Marketing Id',
+  
+  'LBL_CAMPAIGNS' => 'Campagnes',
+  'LBL_LIST_MARKETING_NAME' => 'Marketing Id',
 
 );

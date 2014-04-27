@@ -32,6 +32,14 @@ if (!defined('sugarEntry') || !sugarEntry)
  * 
  * 
  *
+ *
+ *
+ *
+ *
+ *
+ *
+ *        
+ *
  *  
  ********************************************************************************/
 
@@ -69,20 +77,12 @@ $mod_strings = array (
   'LBL_HOURS_ABBREV' => 'uur',
   'LBL_MINSS_ABBREV' => 'min',
   'LBL_COLON' => ':',
-  'LBL_DEFAULT_STATUS' => 'Planned',
   'LNK_NEW_CALL' => 'Nieuw telefoongesprek',
   'LNK_NEW_MEETING' => 'Nieuwe afspraak',
-  'LNK_NEW_TASK' => 'Nieuwe taak',
-  'LNK_NEW_NOTE' => 'Nieuwe notitie of bijlage',
-  'LNK_NEW_EMAIL' => 'E-mail archiveren',
   'LNK_CALL_LIST' => 'Telefoongesprekken',
-  'LNK_MEETING_LIST' => 'Afspraken',
-  'LNK_TASK_LIST' => 'Taken',
-  'LNK_NOTE_LIST' => 'Notities',
-  'LNK_EMAIL_LIST' => 'E-mails',
-  'LNK_VIEW_CALENDAR' => 'Vandaag',
+  'LNK_IMPORT_CALLS' => 'Importeer telefoongesprekken',
   'ERR_DELETE_RECORD' => 'A record number must be specified to delete the account.',
-  'NTC_REMOVE_INVITEE' => 'Weet u zeker dat u deze uitgenodigde persoon wilt verwijderen voor dit telefoon gesprek?',
+    'NTC_REMOVE_INVITEE' => 'Weet u zeker dat u deze uitgenodigde persoon wilt verwijderen voor dit telefoon gesprek?',
   'LBL_INVITEE' => 'Genodigden',
   'LBL_RELATED_TO' => 'Gerelateerd aan:',
   'LNK_NEW_APPOINTMENT' => 'Nieuwe afspraak',
@@ -93,13 +93,21 @@ $mod_strings = array (
   'LBL_LAST_NAME' => 'Achternaam',
   'LBL_EMAIL' => 'E-mail',
   'LBL_PHONE' => 'Telefoon',
+  'LBL_REMINDER' => 'Herinnering:',
+  'LBL_REMINDER_POPUP' => 'Popup',
+  'LBL_REMINDER_EMAIL' => 'E-mail',
+  'LBL_REMINDER_EMAIL_ALL_INVITEES' => 'E-mail alle genodigden',
+  'LBL_EMAIL_REMINDER' => 'E-mail herinnering',
+  'LBL_EMAIL_REMINDER_TIME' => 'E-mail herinnering tijd',
   'LBL_SEND_BUTTON_TITLE' => 'Verstuur uitnodiging [ALT+I]',
   'LBL_SEND_BUTTON_KEY' => 'I',
   'LBL_SEND_BUTTON_LABEL' => 'Verstuur uitnodiging',
   'LBL_DATE_END' => 'Einddatum',
   'LBL_TIME_END' => 'Eindtijd',
   'LBL_REMINDER_TIME' => 'Herrinneringstijd',
+  'LBL_EMAIL_REMINDER_SENT' => 'E-mail herinnering verstuurd',
   'LBL_SEARCH_BUTTON' => 'Zoeken',
+  'LBL_ACTIVITIES_REPORTS' => 'Activiteitenverslag',
   'LBL_ADD_BUTTON' => 'Toevoegen',
   'LBL_DEFAULT_SUBPANEL_TITLE' => 'Telefoongesprekken',
   'LBL_LOG_CALL' => 'Log Oproep',
@@ -107,7 +115,8 @@ $mod_strings = array (
   'LNK_NEW_ACCOUNT' => 'Nieuw relatie',
   'LNK_NEW_OPPORTUNITY' => 'Nieuwe kans',
   'LBL_DEL' => 'Verwijder',
-
+  'LBL_LEADS_SUBPANEL_TITLE' => 'Leads',
+  'LBL_CONTACTS_SUBPANEL_TITLE' => 'Contacten',
   'LBL_USERS_SUBPANEL_TITLE' => 'Gebruikers',
   'LBL_OUTLOOK_ID' => 'Outlook ID',
   'LBL_MEMBER_OF' => 'Lid van',
@@ -117,18 +126,12 @@ $mod_strings = array (
   'LBL_SELECT_FROM_DROPDOWN' => 'Selecteer van dropdown',
   'LBL_ASSIGNED_TO_NAME' => 'Toegewezen aan naam',
   'LBL_ASSIGNED_TO_ID' => 'Toegewezen gebruiker',
-'LNK_IMPORT_CALLS' => 'Importeer telefoongesprekken',
-'LBL_ACTIVITIES_REPORTS' => 'Activiteitenverslag',
-'LBL_LEADS_SUBPANEL_TITLE' => 'Leads',
-'LBL_CONTACTS_SUBPANEL_TITLE' => 'Contacten',
-'NOTICE_DURATION_TIME' => 'Tijdsduur moet groter zijn dan 0',
-'LBL_CALL_INFORMATION' => 'Telefoongesprekken overzicht',
-
-//610
-'LBL_REMOVE' => 'Verwijder',
-
-'LBL_ACCEPT_STATUS' => 'Accepteer status',
-'LBL_ACCEPT_LINK' => 'Accepteer link',
+  'NOTICE_DURATION_TIME' => 'Tijdsduur moet groter zijn dan 0',
+  'LBL_CALL_INFORMATION' => 'Telefoongesprekken overzicht',
+  'LBL_REMOVE' => 'Verwijder',
+  'LBL_ACCEPT_STATUS' => 'Accepteer status',
+  'LBL_ACCEPT_LINK' => 'Accepteer link',
+// For export labels
 'LBL_PARENT_ID' => 'Parent ID',
 'LBL_EXPORT_MODIFIED_USER_ID' => 'Gewijzigd door ID',
 'LBL_EXPORT_CREATED_BY' => 'Aangemaakt door ID',
@@ -136,4 +139,14 @@ $mod_strings = array (
 'LBL_EXPORT_DATE_START' => 'Start datum en tijd',
 'LBL_EXPORT_PARENT_TYPE' => 'Gerelateerd aan module',
 'LBL_EXPORT_REMINDER_TIME' => 'Herinnering Tijd (in minuten)',
+ // Following entry have become obsolate remove at a later time. 
+  //'LBL_DEFAULT_STATUS' => 'Planned',
+  //'LNK_NEW_TASK' => 'Nieuwe taak',
+  //'LNK_NEW_NOTE' => 'Nieuwe notitie of bijlage',
+  //'LNK_NEW_EMAIL' => 'E-mail archiveren',
+  //'LNK_MEETING_LIST' => 'Afspraken',
+  //'LNK_TASK_LIST' => 'Taken',
+  //'LNK_NOTE_LIST' => 'Notities',
+  //'LNK_EMAIL_LIST' => 'E-mails',
+  //'LNK_VIEW_CALENDAR' => 'Vandaag',
 );

@@ -3,6 +3,7 @@ if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 
 /**
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com)
  * Copyright (c) 2007 Madcap BV (http://www.madcap.nl)
  * All rights reserved.
  *
@@ -15,7 +16,7 @@ if (!defined('sugarEntry') || !sugarEntry)
 //to translate, only modify the right value in each key/value pair
 $app_list_strings = array (
     //e.g. auf Deutsch 'Contacts'=>'Contakten',
-  'language_pack_name' => 'Nederlands (Nederland)',
+  'language_pack_name' => 'Nederlands (NL)',
   'source_default_key' => 'Self Generated',
   'opportunity_relationship_type_default_key' => 'Primary Decision Maker',
   'case_relationship_type_default_key' => 'Primary Contact',
