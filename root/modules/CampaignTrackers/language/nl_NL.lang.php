@@ -23,10 +23,12 @@ $mod_strings = array (
   'LBL_DELETED' => 'Verwijderd',
   'LBL_CAMPAIGN' => 'Campagne',
   'LBL_OPTOUT' => 'Opt-out',
+  
   'LBL_MODULE_NAME' => 'Traceerbare URL\'s',
   'LBL_EDIT_CAMPAIGN_NAME' => 'Naam campagne:',
   'LBL_EDIT_TRACKER_NAME' => 'Naam traceerbare URL:',
   'LBL_EDIT_TRACKER_URL' => 'Originele URL:',
+  
   'LBL_SUBPANEL_TRACKER_NAME' => 'Naam',
   'LBL_SUBPANEL_TRACKER_URL' => 'Originele URL',
   'LBL_SUBPANEL_TRACKER_KEY' => 'Id',

@@ -1,4 +1,5 @@
 /**
+ * Dutch Language file SuiteCRM version 7 
  * Copyright (c) 2014 Acniti (http:/www.acniti.com)
  * All rights reserved.
  *
@@ -71,8 +72,19 @@ GitHub Commit Changes 20140401
 Diff modules/Calendar/language/nl_NL.lang.php
   remark days and months different notation: '0' => 'Zo', versus in english "Sun",
 Diff modules/Calls/language/nl_NL.lang.php
-Diff modules/Calls_Reschedule/language/nl_NL.lang.php  translated all new file.
-
-
-
-
+Diff modules/Calls_Reschedule/language/nl_NL.lang.php  translated all new file (check if translated well reschedule with opnieuw plannen)
+Correction Nederland to NL conform other languages /root/include/language/nl_NL.lang.php
+Diff modules/Campaigns/language/nl_NL.lang.php added few entries and synchronised lines with English
+Diff modules/CampaignsTrackers/language/nl_NL.lang.php no changes
+Diff modules/Cases/language/nl_NL.lang.php       LBL_LIST_ASSIGNED_TO_NAME in english version 2 times
+Diff modules\Charts\language\nl_NL.lang.php     added dutch language file version 7
+Diff modules\Connectors\language\nl_NL.lang.php
+Diff \modules\Contacts\language\nl_NL.lang.php
+Diff \modules\DocumentRevisions\language\nl_NL.lang.php
+Diff \modules\Delegates\language\nl_NL.lang.php
+Diff \modules\Documents\language\nl_NL.lang.php
+Diff \modules\DynamicFields\language\nl_NL.lang.php
+Diff \modules\EAPM\language\nl_NL.lang.php
+Diff \modules\EmailAddresses\language\nl_NL.lang.php
+Diff \modules\EmailMan\language\nl_NL.lang.php
+Diff \modules\EmailMarketing\language\nl_NL.lang.php

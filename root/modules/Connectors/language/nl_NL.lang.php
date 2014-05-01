@@ -3,6 +3,8 @@ if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 
 /**
+ * Dutch Language file SuiteCRM version 7 
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com) 
  * Copyright (c) 2007-2009 Madcap B.V. (http://madcap.nl)
  * All rights reserved.
  *
@@ -18,6 +20,7 @@ if (!defined('sugarEntry') || !sugarEntry)
 include_once 'custom/include/dutch/dutch_langpack_utils.php';
 
 $mod_strings = array(
+  
   'LBL_ADD_MODULE'                        => 'Toevoegen',
   'LBL_ADDRCITY'                          => 'Stad',
   'LBL_ADDRCOUNTRY'                       => 'Land',
@@ -38,6 +41,8 @@ $mod_strings = array(
   'LBL_DUNS'                              => 'DUNS',
   'LBL_EMPTY_BEANS'                       => 'Er is niks gevonden.',
   'LBL_ENABLED'                           => 'Ingeschakeld',
+  'LBL_EXTERNAL'                          => 'Sta gebruikers toe om met deze connector, externe account records te maken.',
+  'LBL_EXTERNAL_SET_PROPERTIES'           => 'Om deze connector te gebruiken, moeten de eigenschappen ook in de Connector Instelling pagina ingesteld worden.',
   'LBL_FINSALES'                          => 'Finsales',
   'LBL_MARKET_CAP'                        => 'Marktwaarde',
   'LBL_MERGE'                             => 'Samenvoegen',
@@ -86,12 +91,15 @@ $mod_strings = array(
   'ERROR_EMPTY_RECORD_ID'                 => 'Fout: Item ID niet gespecificeerd of leeg.',
   'ERROR_NO_ADDITIONAL_DETAIL'            => 'Fout: Er werden geen verdere gegevens over dit item gevonden.',
   'ERROR_NO_SEARCHDEFS_DEFINED'           => 'Er zijn geen modules opgegeven bij deze connector. Selecteer minstens &#233;&#233;n module voor deze connector.',
+  'ERROR_NO_SEARCHDEFS_MAPPED'            => 'Fout: Er zijn geen connectors ingeschakelt die zoek velden hebben gedefinieerd.',
   'ERROR_NO_SOURCEDEFS_FILE'              => 'Fout: Bestand sourcedefs.php kon niet worden gevonden.',
   'ERROR_NO_SOURCEDEFS_SPECIFIED'         => 'Fout: Er zijn geen bronnen gedefinieerd om de data van op te halen.',
   'ERROR_NO_CONNECTOR_DISPLAY_CONFIG_FILE'=> 'Fout: Er zijn geen connectors geconfigureerd door deze module.',
   'ERROR_NO_SEARCHDEFS_MAPPING'           => 'Fout: Er zijn geen zoekvelden gedefinieerd voor deze module. Contacteer de beheer.',
   'ERROR_NO_FIELDS_MAPPED'                => 'Fout: U moet minstens 1 veld verbinden per connector.',
   'ERROR_NO_DISPLAYABLE_MAPPED_FIELDS'    => 'Fout: Er zijn geen velden gedefinieerd om te tonen in de zoekresultaten. Contacteer de beheerder.',
+  'LBL_TWITTER_USER'                      => 'Twitter gebruiker',
+  'LBL_FACEBOOK_USER'                     => 'Facebook gebruiker',
 );
 
 $mod_strings_global = array();

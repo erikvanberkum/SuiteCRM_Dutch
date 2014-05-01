@@ -3,6 +3,8 @@ if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 
 /**
+ * Dutch Language file SuiteCRM version 7 
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com)
  * Copyright (c) 2007 Madcap BV (http://www.madcap.nl)
  * Copyright (c) 2010 Prudento (http://www.prudento.com)
  * All rights reserved.
@@ -15,6 +17,7 @@ if (!defined('sugarEntry') || !sugarEntry)
 $mod_strings = array (
   'LBL_REPLY_ADDR' => '"Reply-to" adres: ',
   'LBL_REPLY_NAME' => '"Reply-to" naam: ',
+  
   'LBL_MODULE_NAME' => 'E-mail marketing',
   'LBL_MODULE_TITLE' => 'E-mail marketing: Start',
   'LBL_LIST_FORM_TITLE' => 'E-mail marketing campagnes',
@@ -26,22 +29,26 @@ $mod_strings = array (
   'LBL_LIST_STATUS' => 'Status',
   'LBL_STATUS' => 'Status',
   'LBL_STATUS_TEXT' => 'Status:',
+  'LBL_TEMPLATE_NAME' => 'Template naam',
   'LBL_DATE_ENTERED' => 'Datum ingevoerd',
   'LBL_DATE_MODIFIED' => 'Datum gewijzigd',
   'LBL_MODIFIED' => 'Gewijzigd door: ',
   'LBL_CREATED' => 'Gemaakt door: ',
   'LBL_MESSAGE_FOR' => 'Stuur dit bericht naar:',
   'LBL_MESSAGE_FOR_ID' => 'Bericht voor',
+  
   'LBL_FROM_NAME' => 'Afzender naam: ',
   'LBL_FROM_ADDR' => 'Afzender email-adres: ',
   'LBL_DATE_START' => 'Startdatum',
   'LBL_TIME_START' => 'Starttijd',
   'LBL_START_DATE_TIME' => 'Startdatum en tijd: ',
   'LBL_TEMPLATE' => 'Email template: ',
+ 
   'LBL_MODIFIED_BY' => 'Gewijzigd door: ',
   'LBL_CREATED_BY' => 'Gemaakt door: ',
   'LBL_DATE_CREATED' => 'Datum aangemaakt: ',
   'LBL_DATE_LAST_MODIFIED' => 'Datum gewijzigd: ',
+  
   'LNK_NEW_CAMPAIGN' => 'Nieuwe campagne',
   'LNK_CAMPAIGN_LIST' => 'Campagnes',
   'LNK_NEW_PROSPECT_LIST' => 'Nieuwe doelenlijst',
@@ -65,5 +72,5 @@ $mod_strings = array (
   'LBL_SCHEDULE_BUTTON_TITLE' => 'Verzenden',
   'LBL_SCHEDULE_BUTTON_LABEL' => 'Verzenden',
   'LBL_SCHEDULE_BUTTON_KEY' => 'T',
-'LBL_TEMPLATE_NAME' => 'Template naam',
+
 );
