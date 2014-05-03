@@ -88,3 +88,21 @@ Diff \modules\EAPM\language\nl_NL.lang.php
 Diff \modules\EmailAddresses\language\nl_NL.lang.php
 Diff \modules\EmailMan\language\nl_NL.lang.php
 Diff \modules\EmailMarketing\language\nl_NL.lang.php
+Diff \modules\Emails\language\nl_NL.lang.php
+Diff \modules\EmailTemplates\language\nl_NL.lang.php
+\modules\EmailText\language\nl_NL.lang.php   No english file available??????
+Diff \modules\Employees\language\nl_NL.lang.php
+Created \modules\FP_Event_Locations\language\nl_NL.lang.php
+Created \modules\FP_events\language\nl_NL.lang.php
+Diff \modules\Groups\language\nl_NL.lang.php
+Diff \modules\Help\language\nl_NL.lang.php
+Diff \modules\History\language\nl_NL.lang.php
+Diff \modules\Home\language\nl_NL.lang.php
+Diff \modules\Import\language\nl_NL.lang.php
+Diff \modules\InboundEmail\language\nl_NL.lang.php
+Created \modules\jjwg_Address_Cache\language\nl_NL.lang.php
+Created \modules\jjwg_Areas\language\nl_NL.lang.php
+Created
+Created
+Diff
+

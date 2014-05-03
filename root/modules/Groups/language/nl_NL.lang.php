@@ -3,6 +3,8 @@ if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 
 /**
+ * Dutch Language file SuiteCRM version 7 
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com)
  * Copyright (c) 2007 Madcap BV (http://www.madcap.nl)
  * All rights reserved.
  *
@@ -16,7 +18,9 @@ $mod_strings = array (
   'LBL_GROUP_NAME' => 'Groepsnaam:',
   'LBL_DESCRIPTION' => 'Omschrijving:',
   'LBL_TEAM' => 'Team:',
+  // ListView
   'LBL_LIST_TITLE' => 'Groepen',
+  // Links
   'LNK_ALL_GROUPS' => 'Alle groepen',
   'LNK_NEW_GROUP' => 'Nieuwe groep',
   'LNK_CONVERT_USER' => 'Converteer gebruiker naar groep'

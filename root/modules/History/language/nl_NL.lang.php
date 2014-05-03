@@ -78,10 +78,6 @@ $mod_strings = array (
   'LBL_LIST_DUE_DATE' => 'Vervaldatum',
   'LBL_LIST_LAST_MODIFIED' => 'Laatste wijziging',
   'NTC_NONE_SCHEDULED' => 'Er zijn geen activiteiten gepland.',
-  'LNK_IMPORT_NOTES' => 'Notities importeren',
-  'NTC_NONE' => 'geen',
-  'LBL_ACCEPT_THIS' => 'Accepteren?',
-  'LBL_DEFAULT_SUBPANEL_TITLE' => 'Geschiedenis',
   'appointment_filter_dom' => array (
     'today' => 'vandaag',
     'tomorrow' => 'morgen',
@@ -89,5 +85,9 @@ $mod_strings = array (
     'next Saturday' => 'volgende week',
     'last this_month' => 'deze maand',
     'last next_month' => 'volgende maand'
-  )
+  ),
+  'LNK_IMPORT_NOTES' => 'Notities importeren',
+  'NTC_NONE' => 'geen',
+  'LBL_ACCEPT_THIS' => 'Accepteren?',
+  'LBL_DEFAULT_SUBPANEL_TITLE' => 'Geschiedenis',
 );

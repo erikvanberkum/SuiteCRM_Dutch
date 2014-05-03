@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * Dutch Language file SuiteCRM version 7 
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com) 
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com) 
  * Copyright (c) 2007-2009 Madcap BV (http://madcap.nl)(no langer active)
  * All rights reserved.
@@ -11,13 +13,14 @@
  */
 
 /**
+ * @author Erik van Berkum <erik@vanberkum.me>
  * @author Wichard Noppert <w.noppert@prudento.com>
  * @author Loek van Gool <l.vgool@madcap.nl> (no langer active)
  * @package MadDLP
  */
 
 $manifest = array(
-  'name'                      => 'Nederlands (Nederland)',
+  'name'                      => 'Nederlands (NL)',
   'type'                      => 'module',
   'is_uninstallable'          => true,
   'acceptable_sugar_versions' => array(
@@ -28,10 +31,10 @@ $manifest = array(
   'acceptable_sugar_flavors'  => array(
     'CE',
   ),
-  'author'                    => 'Prudento',
-  'description'               => 'Dutch language pack by Prudento - http://www.prudento.com',
-  'published_date'            => '2012-11-02',
-  'version'                   => '6.4.0 b8',
+  'author'                    => 'Acniti',
+  'description'               => 'Dutch language for SuiteCRM',
+  'published_date'            => '2014-05-02',
+  'version'                   => '7',
 );
 
 $installdefs = array(

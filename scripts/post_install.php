@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * Dutch Language file SuiteCRM version 7 
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com) 
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * Copyright (c) 2007-2009 Madcap BV (http://madcap.nl)
  * All rights reserved.
@@ -18,7 +20,7 @@
 
 function post_install() {
   $file = 'config_override.php';
-  $langdef = "\n//Added by Dutch Language Pack installer\n\$sugar_config['languages']['nl_NL'] = 'Nederlands (Nederland)';\n";
+  $langdef = "\n//Added by Dutch Language Pack installer\n\$sugar_config['languages']['nl_NL'] = 'Nederlands (NL)';\n";
   $current = null;
   if(is_writable($file)) {
     $current = file_get_contents($file);
@@ -35,7 +37,7 @@ function post_install() {
   if(is_file($file) && !is_writable($file)) {
     ?>
     Error: No permissions to write to config_override.php. Open `config_override.php` in the Sugar directory and add this code to the bottom:<br><br>
-    &lt;?php $sugar_config['languages']['nl_NL'] = 'Nederlands (Nederland)'; ?>
+    &lt;?php $sugar_config['languages']['nl_NL'] = 'Nederlands (NL)'; ?>
     <br><br>
     <b>Without this modification the Dutch language pack will not work!</b>
     <?php
@@ -43,7 +45,7 @@ function post_install() {
   } elseif(!is_file($file) && !is_writable(".")) {
     ?>
     Error: No permissions to create config_override.php. Create a file `config_override.php` in the Sugar directory and put this code in that file:<br><br>
-    &lt;?php $sugar_config['languages']['nl_NL'] = 'Nederlands (Nederland)'; ?>
+    &lt;?php $sugar_config['languages']['nl_NL'] = 'Nederlands (NL)'; ?>
     <br><br>
     <b>Without this modification the Dutch language pack will not work!</b>
     <?php

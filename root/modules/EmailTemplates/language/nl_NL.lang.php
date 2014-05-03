@@ -3,6 +3,8 @@ if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 
 /**
+ * Dutch Language file SuiteCRM version 7 
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com)
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * Copyright (c) 2007-2009 Madcap BV (http://www.madcap.nl)
  * All rights reserved.
@@ -21,10 +23,10 @@ $mod_strings = array (
   'LBL_BODY' => 'Inhoud:',
   'LBL_CLOSE' => 'Sluiten:',
   'LBL_COLON' => ':',
-  'LBL_CONTACT_AND_OTHERS' => 'Contactpersoon/Kans/Target',
   'LBL_DESCRIPTION' => 'Omschrijving:',
   'LBL_EDIT_ALT_TEXT' => 'Bewerk tekst',
   'LBL_EMAIL_ATTACHMENT' => 'E-mail bijlage',
+  'LBL_HIDE_ALT_TEXT'			=> 'Verberg platte tekst',
   'LBL_HTML_BODY' => 'HTML body',
   'LBL_INSERT_VARIABLE' => 'Voer variabele in:',
   'LBL_INSERT_URL_REF' => 'URL referentie invoegen',
@@ -48,6 +50,7 @@ $mod_strings = array (
   'LBL_TEAMS_LINK' => 'Team',
   'LBL_TEXT_BODY' => 'Text body',
   'LBL_USERS' => 'Gebruikers',
+  
   'LNK_ALL_EMAIL_LIST' => 'Alle e-mails',
   'LNK_ARCHIVED_EMAIL_LIST' => 'Gearchiveerde e-mails',
   'LNK_CHECK_EMAIL' => 'Haal Mail',
@@ -60,12 +63,14 @@ $mod_strings = array (
   'LNK_NEW_SEND_EMAIL' => 'E-mail opstellen',
   'LNK_SENT_EMAIL_LIST' => 'Verzonden e-mails',
   'LNK_VIEW_CALENDAR' => 'Vandaag',
+  // for Inbox
   'LBL_NEW' => 'Nieuw',
   'LNK_CHECK_MY_INBOX' => 'Haal nieuwe e-mail op',
   'LNK_GROUP_INBOX' => 'Groep inbox',
   'LNK_MY_ARCHIVED_LIST' => 'Mijn archief',
   'LNK_MY_DRAFTS' => 'Mijn concepten',
   'LNK_MY_INBOX' => 'Mijn inbox',
+  'LBL_LIST_BASE_MODULE' => 'Basismodule:',
   'LBL_TEXT_ONLY' => 'Alleen tekst',
   'LBL_SEND_AS_TEXT' => 'Verzend alleen tekst',
   'LBL_ACCOUNT' => 'Account',
@@ -75,16 +80,11 @@ $mod_strings = array (
   'LBL_CREATED_BY' => 'Gemaakt door',
   'LBL_FROM_ADDRESS' => 'Van adres',
   'LBL_PUBLISHED' => 'Gepubliceerd',
-'LBL_TEAMS' => 'Teams:',
-'LBL_LIST_BASE_MODULE' => 'Basismodule:',
-'LBL_ACTIVITIES_REPORTS' => 'Activiteitenverslag',
-'LNK_VIEW_MY_INBOX' => 'Bekijk Mijn e-mail',
-//610
-'LBL_ASSIGNED_TO_ID' => 'Toegewezen aan',
-//640
-'LBL_HIDE_ALT_TEXT' => 'Verberg platte tekst',
-'LBL_HIDE_ALT_TEXT' => 'Verberg platte tekst',
-'LBL_EDIT_LAYOUT' => 'Bewerk lay-out',
-'LBL_SELECT' => 'Selecteer',
-'LBL_ID_FF_CLEAR' => 'Wissen',
+  'LBL_ACTIVITIES_REPORTS' => 'Activiteitenverslag',
+  'LNK_VIEW_MY_INBOX' => 'Bekijk Mijn e-mail',
+  'LBL_ASSIGNED_TO_ID' => 'Toegewezen aan',
+  'LBL_EDIT_LAYOUT' => 'Bewerk lay-out',
+  'LBL_SELECT' => 'Selecteer',
+  'LBL_ID_FF_CLEAR' => 'Wissen',
+  'LBL_TYPE' => 'Type',
 );

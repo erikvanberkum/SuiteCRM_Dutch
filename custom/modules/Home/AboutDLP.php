@@ -11,14 +11,15 @@
  */
 
 /**
+ * @author Erik van Berkum <erik@vanberkum.me> 
  * @author Wichard Noppert <w.noppert@prudento.com>
  * @author Loek van Gool <l.vgool@madcap.nl>
  */
 
 -->
 
-<h1>Nederlandse vertaling voor SugarCRM</h1>
-De Nederlandse vertaling van SugarCRM wordt gratis beschikbaar gesteld door Prudento (<a target="_blank" href="http://www.prudento.com">http://www.prudento.com</a>).
+<h1>Nederlandse vertaling voor SuiteCRM</h1>
+De Nederlandse vertaling van SuiteCRM wordt gratis beschikbaar gesteld door Prudento (<a target="_blank" href="http://www.prudento.com">http://www.prudento.com</a>).
 <ul>
   <li>
     Kijk regelmatig op de projectpagina om te kijken of er een nieuwere versie is

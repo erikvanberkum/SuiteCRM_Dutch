@@ -344,7 +344,6 @@ $mod_strings = array (
 'LBL_EXCHANGE_SMTPPORT' => 'Exchange Server Port:',
 'LBL_EXCHANGE_SMTPSERVER' => 'Exchange Server:',
 
-//go
 'LBL_EDIT_LAYOUT' => 'Bewerk Lay-out' /*for 508 compliance fix*/,
 'LBL_ATTACHMENT' => 'Bijlage',    /*for 508 compliance fix*/,
 'LBL_DELETE_INLINE' => 'Verwijder',
