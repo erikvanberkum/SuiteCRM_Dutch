@@ -27,5 +27,5 @@ $mod_strings = array (
   'LBL_RELATIONSHIP_ROLE_COLUMN' => 'Relatie rol kolom naam',
   'LBL_RELATIONSHIP_ROLE_COLUMN_VALUE' => 'Relatie rol kolom waarde',
   'LBL_REVERSE' => 'Omgekeerd',
-  'LBL_DELETED' => 'Verwijderd'
+  'LBL_DELETED' => 'Verwijderd',
 );

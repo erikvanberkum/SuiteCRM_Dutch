@@ -3,6 +3,8 @@ if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 
 /**
+ * Dutch Language file SuiteCRM version 7 
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com) 
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * Copyright (c) 2007-2009 Madcap BV (http://www.madcap.nl)
  * All rights reserved.
@@ -56,18 +58,10 @@ $mod_strings = array (
   'LBL_SEARCH_FORM_TITLE' => 'Notitie zoeken',
   'LBL_STATUS' => 'Status',
   'LBL_SUBJECT' => 'Onderwerp:',
-  'LNK_CALL_LIST' => 'Telefoongesprekken',
-  'LNK_EMAIL_LIST' => 'E-mails',
   'LNK_IMPORT_NOTES' => 'Notities importeren',
-  'LNK_MEETING_LIST' => 'Afspraken',
-  'LNK_NEW_CALL' => 'Nieuw telefoongesprek',
-  'LNK_NEW_EMAIL' => 'E-mail archiveren',
-  'LNK_NEW_MEETING' => 'Nieuwe afspraak',
   'LNK_NEW_NOTE' => 'Nieuwe notitie of bijlage',
-  'LNK_NEW_TASK' => 'Nieuwe taak',
-  'LNK_NOTE_LIST' => 'Notities',
-  'LNK_TASK_LIST' => 'Taken',
-  'LNK_VIEW_CALENDAR' => 'Vandaag',
+  'LNK_NOTE_LIST' => 'Overzicht Notities',
+  'LNK_IMPORT_NOTES' => 'Notities importeren',
   'LBL_MEMBER_OF' => 'Onderdeel van:',
   'LBL_LIST_ASSIGNED_TO_NAME' => 'Toegewezen gebruiker',
   'LBL_REMOVING_ATTACHMENT' => 'Attachment verwijderen...',
@@ -75,14 +69,13 @@ $mod_strings = array (
   'LBL_CREATED_BY' => 'Aangemaakt door',
   'LBL_MODIFIED_BY' => 'Gewijzigd door',
   'LBL_SEND_ANYWAYS' => 'Deze e-mail heeft geen bijlage. Toch verzenden?',
-'LBL_LIST_EDIT_BUTTON' => 'Bewerken',
-'LBL_ACTIVITIES_REPORTS' => 'Activiteitenverslag',
-'LBL_PANEL_DETAILS' => 'Details',
-'LBL_NOTE_INFORMATION' => 'Notities overzicht',
-//640
-'LBL_MY_NOTES_DASHLETNAME' => 'Mijn Notities',
-'LBL_MY_NOTES_DASHLETNAME' => 'Mijn notities',
-'LBL_EDITLAYOUT' => 'Wijzig lay-out',
+  'LBL_LIST_EDIT_BUTTON' => 'Bewerken',
+  'LBL_ACTIVITIES_REPORTS' => 'Activiteitenverslag',
+  'LBL_PANEL_DETAILS' => 'Details',
+  'LBL_NOTE_INFORMATION' => 'Notities overzicht',
+  'LBL_MY_NOTES_DASHLETNAME' => 'Mijn notities',
+  'LBL_EDITLAYOUT' => 'Wijzig lay-out', 
+//For export labels
 'LBL_FIRST_NAME' => 'Voornaam',
 'LBL_LAST_NAME' => 'Achternaam',
 'LBL_EXPORT_PARENT_TYPE' => 'Gerelateerd aan module',
@@ -90,4 +83,15 @@ $mod_strings = array (
 'LBL_DATE_ENTERED' => 'Datum aangemaakt',
 'LBL_DATE_MODIFIED' => 'Datum gewijzigd',
 'LBL_DELETED' => 'Verwijderd',
+
+//obsolate
+   'LNK_CALL_LIST' => 'Telefoongesprekken',
+   'LNK_EMAIL_LIST' => 'E-mails',
+  'LNK_MEETING_LIST' => 'Afspraken',
+  'LNK_NEW_CALL' => 'Nieuw telefoongesprek',
+  'LNK_NEW_EMAIL' => 'E-mail archiveren',
+  'LNK_NEW_MEETING' => 'Nieuwe afspraak',
+  'LNK_NEW_TASK' => 'Nieuwe taak',
+  'LNK_TASK_LIST' => 'Taken',
+  'LNK_VIEW_CALENDAR' => 'Vandaag',
 );

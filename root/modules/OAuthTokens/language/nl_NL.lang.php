@@ -2,6 +2,8 @@
 if (!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 /**
+ * Dutch Language file SuiteCRM version 7 
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com) 
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * All rights reserved.
  *
@@ -11,8 +13,6 @@ if (!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  */
 
 $mod_strings = array (
-'LBL_OAUTH_REQUEST' => 'Request Token ',
-'LBL_OAUTH_AUTHORIZE' => 'Authorize Token',
 'LBL_OAUTH_REQUEST' => 'Vraag Token  aan',
 'LBL_OAUTH_AUTHORIZE' => 'Machtig Token',
 'LBL_OAUTH_CONSUMERREQ' => 'Machtig token van gebruiker %s?',

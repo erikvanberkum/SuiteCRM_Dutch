@@ -2,6 +2,8 @@
 if (!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 /**
+ * Dutch Language file SuiteCRM version 7 
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com)
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * All rights reserved.
  *

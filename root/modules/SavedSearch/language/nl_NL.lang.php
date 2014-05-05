@@ -12,6 +12,7 @@ if (!defined('sugarEntry') || !sugarEntry)
 
 $mod_strings = array (
   'LBL_MODULE_TITLE' => 'Mijn bewaarde zoekopdrachten',
+  'LBL_MODULE_TITLE' => 'Mijn bewaarde zoekopdrachten',
   'LBL_SEARCH_FORM_TITLE' => 'Mijn bewaarde zoekopdrachten: Zoeken',
   'LBL_LIST_FORM_TITLE' => 'Mijn bewaarde zoekopdrachten',
   'LBL_DELETE_CONFIRM' => 'Bewaarde zoekopdracht verwijdren?',
@@ -28,5 +29,5 @@ $mod_strings = array (
   'LBL_PREVIOUS_SAVED_SEARCH_HELP' => 'Wijzig of verwijder een bewaarde zoekopdracht.',
   'LBL_ASCENDING' => 'Oplopend',
   'LBL_DESCENDING' => 'Aflopend',
-  'LBL_MODIFY_CURRENT_SEARCH' => 'Wijzig huidige zoekopdracht'
+  'LBL_MODIFY_CURRENT_SEARCH' => 'Wijzig huidige zoekopdracht',
 );

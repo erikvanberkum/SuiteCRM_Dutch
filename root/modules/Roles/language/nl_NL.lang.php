@@ -26,5 +26,6 @@ $mod_strings = array (
   'LBL_ASSIGN_MODULES' => 'Bewerk modules: ',
   'LBL_DEFAULT_SUBPANEL_TITLE' => 'Rollen',
   'LBL_USERS' => 'Gebruikers',
-  'LBL_USERS_SUBPANEL_TITLE' => 'Gebruikers'
+  
+  'LBL_USERS_SUBPANEL_TITLE' => 'Gebruikers',
 );

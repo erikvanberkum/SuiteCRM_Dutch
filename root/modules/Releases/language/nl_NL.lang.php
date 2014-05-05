@@ -29,11 +29,11 @@ $mod_strings = array (
   'ERR_DELETE_RECORD' => 'Er moet een record nummer zijn gespecificeerd om deze release te verwijderen.',
   'NTC_STATUS' => 'Zet de status op Inactief om deze release te verwijderen uit de Releases dropdown lijsten.',
   'NTC_LIST_ORDER' => 'Kies de volgorde waarin deze release in de Releases dropdown lijsten moet voorkomen',
-  'release_status_dom' => array (
+  'release_status_dom' => 
+  array (
     'Active' => 'Actief',
     'Inactive' => 'Inactief'
   ),
-//640
-'LBL_EDITLAYOUT' => 'Wijzig lay-out',
+'LBL_EDITLAYOUT' => 'Wijzig lay-out' /*for 508 compliance fix*/,
 
 );

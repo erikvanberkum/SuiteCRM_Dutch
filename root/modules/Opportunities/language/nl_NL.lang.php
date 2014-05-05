@@ -3,7 +3,9 @@ if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 
 /**
- * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
+ * Dutch Language file SuiteCRM version 7 
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com)
+ *  Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * Copyright (c) 2007-2009 Madcap BV (http://www.madcap.nl)
  * All rights reserved.
  *
@@ -22,21 +24,23 @@ $mod_strings = array (
   'LBL_OPPORTUNITY' => 'Kans:',
   'LBL_NAME' => 'Kansnaam',
   'LBL_INVITEE' => 'Contactpersonen',
+  'LBL_CURRENCIES' => 'Valuta',
   'LBL_LIST_OPPORTUNITY_NAME' => 'Naam',
   'LBL_LIST_ACCOUNT_NAME' => 'Relatie naam',
   'LBL_LIST_AMOUNT' => 'Bedrag',
+  'LBL_LIST_AMOUNT_USDOLLAR' => 'Bedrag',
   'LBL_LIST_DATE_CLOSED' => 'Sluiten',
   'LBL_LIST_SALES_STAGE' => 'Verkoopstadium',
   'LBL_ACCOUNT_ID' => 'Relatie ID',
   'LBL_CURRENCY_ID' => 'Valuta ID',
   'LBL_CURRENCY_NAME' => 'Valuta naam',
   'LBL_CURRENCY_SYMBOL' => 'Valuta symbool',
-
+ //DON'T CONVERT THESE THEY ARE MAPPINGS
   'db_sales_stage' => 'LBL_LIST_SALES_STAGE',
   'db_name' => 'LBL_NAME',
   'db_amount' => 'LBL_LIST_AMOUNT',
   'db_date_closed' => 'LBL_LIST_DATE_CLOSED',
-
+//END DON'T CONVERT
   'UPDATE' => 'Kans - Valuta update',
   'UPDATE_DOLLARAMOUNTS' => 'Update U.S. Dollar bedragen',
   'UPDATE_VERIFY' => 'Controleer bedragen',
@@ -78,7 +82,6 @@ $mod_strings = array (
   'MSG_DUPLICATE' => 'Creating this opportunity may potentialy create a duplicate opportunity. You may either select an opportunity from the list below or you may click on Create New Opportunity to continue creating a new opportunity with the previously entered data.',
   'LBL_NEW_FORM_TITLE' => 'Nieuwe kans',
   'LNK_NEW_OPPORTUNITY' => 'Nieuwe kans',
-
   'LNK_OPPORTUNITY_LIST' => 'Kansen',
   'ERR_DELETE_RECORD' => 'Er moet een record nummer zijn gespecificeerd om deze kans te verwijderen.',
   'LBL_TOP_OPPORTUNITIES' => 'Mijn top openstaande kansen',
@@ -91,11 +94,10 @@ $mod_strings = array (
 
   'LBL_LEADS_SUBPANEL_TITLE' => 'Leads',
   'LBL_CONTACTS_SUBPANEL_TITLE' => 'Contactpersonen',
-
+   'LBL_DOCUMENTS_SUBPANEL_TITLE' => 'Documenten',
   'LBL_PROJECTS_SUBPANEL_TITLE' => 'Projecten',
   'LBL_ASSIGNED_TO_NAME' => 'Toegewezen aan:',
   'LBL_LIST_ASSIGNED_TO_NAME' => 'Toegewezen gebruiker',
-
   'LBL_LIST_SALES_STAGE' => 'Verkoopstadium',
   'LBL_MY_CLOSED_OPPORTUNITIES' => 'Mijn gesloten kansen',
   'LBL_TOTAL_OPPORTUNITIES' => 'Totaal kansen',
@@ -104,32 +106,22 @@ $mod_strings = array (
   'LBL_CREATED_ID' => 'Gemaakt door ID',
   'LBL_MODIFIED_ID' => 'Gewijzigd door ID',
   'LBL_MODIFIED_NAME' => 'Gewijzigd door user',
-'LBL_CURRENCIES' => 'Valuta',
-'LBL_LIST_AMOUNT_USDOLLAR' => 'Bedrag',
-'LBL_CREATED_USER' => 'Gemaakt door gebruiker',
-'LBL_MODIFIED_USER' => 'Gewijzigd door gebruiker',
-'LBL_CAMPAIGN_OPPORTUNITY' => 'Campagnes',
-'LBL_PROJECT_SUBPANEL_TITLE' => 'Projecten',
-'LABEL_PANEL_ASSIGNMENT' => 'Toekennen',
-'LNK_IMPORT_OPPORTUNITIES' => 'Import Kansen',
-//640
-'LBL_CURRENCIES' => 'Valuta',
-'LBL_LIST_AMOUNT_USDOLLAR' => 'Bedrag',
-'LBL_CREATED_USER' => 'Gemaakt door gebruiker',
-'LBL_MODIFIED_USER' => 'Gewijzigd door gebruiker',
-'LBL_CAMPAIGN_OPPORTUNITY' => 'Campagnes',
-'LBL_PROJECT_SUBPANEL_TITLE' => 'Projecten',
-'LABEL_PANEL_ASSIGNMENT' => 'Toekennen',
-'LNK_IMPORT_OPPORTUNITIES' => 'Import Kansen',
-'LBL_DOCUMENTS_SUBPANEL_TITLE' => 'Documenten',
-'LBL_DOCUMENTS_SUBPANEL_TITLE' => 'Documenten',
-'LBL_EDITLAYOUT' => 'Wijzig lay-out',
-'LBL_EXPORT_CAMPAIGN_ID' => 'Campagne ID',
-'LBL_OPPORTUNITY_TYPE' => 'Kans type',
-'LBL_EXPORT_ASSIGNED_USER_NAME' => 'Toegewezen gebruikersnaam',
-'LBL_EXPORT_ASSIGNED_USER_ID' => 'Toegewezen gebruikers-ID',
-'LBL_EXPORT_MODIFIED_USER_ID' => 'Gewijzigd door ID',
-'LBL_EXPORT_CREATED_BY' => 'Aangemaakt door ID',
-'LBL_EXPORT_NAME' => 'Naam',
-'LBL_CONTACT_HISTORY_SUBPANEL_TITLE' => 'Emails gerelateerde contactpersonen',
+  'LBL_CREATED_USER' => 'Gemaakt door gebruiker',
+  'LBL_MODIFIED_USER' => 'Gewijzigd door gebruiker',
+  'LBL_CAMPAIGN_OPPORTUNITY' => 'Campagnes',
+  'LBL_PROJECT_SUBPANEL_TITLE' => 'Projecten',
+  'LABEL_PANEL_ASSIGNMENT' => 'Toekennen',
+  'LNK_IMPORT_OPPORTUNITIES' => 'Import kansen',
+  'LBL_EDITLAYOUT' => 'Wijzig lay-out',
+//For export labels
+ 'LBL_EXPORT_CAMPAIGN_ID' => 'Campagne ID',
+ 'LBL_OPPORTUNITY_TYPE' => 'Kans type',
+ 'LBL_EXPORT_ASSIGNED_USER_NAME' => 'Toegewezen gebruikersnaam',
+ 'LBL_EXPORT_ASSIGNED_USER_ID' => 'Toegewezen gebruikers-ID',
+ 'LBL_EXPORT_MODIFIED_USER_ID' => 'Gewijzigd door ID',
+ 'LBL_EXPORT_CREATED_BY' => 'Aangemaakt door ID',
+ 'LBL_EXPORT_NAME' => 'Naam',
+ 
+ // SNIP
+ 'LBL_CONTACT_HISTORY_SUBPANEL_TITLE' => 'Emails gerelateerde contactpersonen',
 );

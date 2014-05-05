@@ -85,6 +85,7 @@ $mod_strings = array (
   'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Activiteiten',
   'LBL_HISTORY_SUBPANEL_TITLE' => 'Geschiedenis',
   'DATE_JS_ERROR' => 'Geef een datum in die overeenkomt met de opgegeven tijd',
+  
   'LBL_ASSIGNED_USER_NAME' => 'LBL_ASSIGNED_USER_NAME',
   'LBL_PARENT_NAME' => 'LBL_PARENT_NAME',
 'LBL_LIST_PROJECT_NAME' => 'Projecten',

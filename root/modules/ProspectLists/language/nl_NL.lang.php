@@ -2,6 +2,8 @@
 if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 /**
+ * Dutch Language file SuiteCRM version 7 
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com) 
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * Copyright (c) 2007-2009 Madcap BV (http://www.madcap.nl)
  * All rights reserved.
@@ -26,6 +28,7 @@ $mod_strings = array (
   'LBL_LIST_TYPE_NO' => 'Type',
   'LBL_LIST_END_DATE' => 'Einddatum',
   'LBL_DATE_ENTERED' => 'Datum ingevoerd',
+  'LBL_MARKETING_ID' => 'Marketing Id',
   'LBL_DATE_MODIFIED' => 'Datum gewijzigd',
   'LBL_MODIFIED' => 'Gewijzigd door',
   'LBL_CREATED' => 'Gemaakt door',
@@ -47,18 +50,17 @@ $mod_strings = array (
   'LBL_CONTACTS_SUBPANEL_TITLE' => 'Contactpersonen',
   'LBL_LEADS_SUBPANEL_TITLE' => 'Leads',
   'LBL_PROSPECTS_SUBPANEL_TITLE' => 'Verzendlijsten',
+  'LBL_ACCOUNTS_SUBPANEL_TITLE' => 'Relaties',
   'LBL_COPY_PREFIX' => 'Kopie van',
   'LBL_USERS_SUBPANEL_TITLE' => 'Gebruikers',
   'LBL_TYPE' => 'Type',
   'LBL_LIST_TYPE' => 'Type',
   'LBL_LIST_TYPE_LIST_NAME' => 'Type',
   'LBL_NEW_FORM_TITLE' => 'Nieuwe verzendlijst',
+  'LBL_MARKETING_NAME' => 'Marketing naam',
   'LBL_MARKETING_MESSAGE' => 'E-mail marketing bericht',
   'LBL_DOMAIN_NAME' => 'Domeinnaam',
   'LBL_DOMAIN' => 'Geen E-mails naar domein:',
   'LBL_LIST_PROSPECTLIST_NAME' => 'Naam',
-//640
-'LBL_ACCOUNTS_SUBPANEL_TITLE' => 'Relaties',
-'LBL_MARKETING_NAME' => 'Marketing naam',
-'LBL_MORE_DETAIL' => 'Meer details',
+  'LBL_MORE_DETAIL' => 'Meer details',
 );

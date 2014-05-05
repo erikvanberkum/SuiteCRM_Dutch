@@ -102,7 +102,26 @@ Diff \modules\Import\language\nl_NL.lang.php
 Diff \modules\InboundEmail\language\nl_NL.lang.php
 Created \modules\jjwg_Address_Cache\language\nl_NL.lang.php
 Created \modules\jjwg_Areas\language\nl_NL.lang.php
-Created
-Created
-Diff
-
+Created \modules\jjwg_Maps\language\nl_NL.lang.php
+Created \modules\jjwg_Markers\language\nl_NL.lang.php
+Diff \modules\LabelEditor\language\nl_NL.lang.php no changes
+Diff \modules\Leads\language\nl_NL.lang.php
+Diff \modules\MailMerge\language\nl_NL.lang.php
+Diff \modules\Meetings\language\nl_NL.lang.php
+Diff \modules\MergeRecords\language\nl_NL.lang.php
+To translate \modules\ModuleBuilder\language\nl_NL.lang.php  this is 726 lines of translation work and not previous done, since these are administration files no priority is given to this right now.
+Diff \modules\MySettings\language\nl_NL.lang.php no changes
+Diff \modules\Notes\language\nl_NL.lang.php
+Diff \modules\OAuthKeys\language\nl_NL.lang.php no changes
+Diff \modules\OAuthTokens\language\nl_NL.lang.php
+Diff \modules\Opportunities\language\nl_NL.lang.php
+Diff \modules\OptimisticLock\language\nl_NL.lang.php no changes
+Diff \modules\Project\language\nl_NL.lang.php
+Diff \modules\ProjectTask\language\nl_NL.lang.php
+Diff \modules\ProspectLists\language\nl_NL.lang.php
+Diff \modules\Prospects\language\nl_NL.lang.php
+Diff \modules\Relationships\language\nl_NL.lang.php no changes
+Diff \modules\Releases\language\nl_NL.lang.php
+Diff \modules\Roles\language\nl_NL.lang.php
+Diff \modules\SavedSearch\language\nl_NL.lang.php
+Diff \modules\Schedulers\language\nl_NL.lang.php

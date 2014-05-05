@@ -53,6 +53,7 @@ $mod_strings = array (
   'LBL_LIST_END_DATE' => 'Einddatum',
   'LBL_LIST_TEAM_ID' => 'Team',
 
+
   'LBL_PROJECT_SUBPANEL_TITLE' => 'Projecten',
   'LBL_PROJECT_TASK_SUBPANEL_TITLE' => 'Project taak',
   'LBL_CONTACT_SUBPANEL_TITLE' => 'Contactpersonen',
@@ -60,6 +61,7 @@ $mod_strings = array (
   'LBL_OPPORTUNITY_SUBPANEL_TITLE' => 'Kansen',
   'LBL_QUOTE_SUBPANEL_TITLE' => 'Prijsopgaven',
 
+  // quick create label
   'LBL_NEW_FORM_TITLE' => 'Nieuw project',
 
   'CONTACT_REMOVE_PROJECT_CONFIRM' => 'Weet je zeker dat je deze contactpersoon wilt verwijderen uit dit project?',
@@ -83,6 +85,7 @@ $mod_strings = array (
   'LBL_BUGS_SUBPANEL_TITLE' => 'Bugs',
   'LBL_PRODUCTS_SUBPANEL_TITLE' => 'Producten',
 
+
   'LBL_TASK_ID' => 'ID',
   'LBL_TASK_NAME' => 'Naam taak',
   'LBL_DURATION' => 'Duur',
@@ -91,11 +94,9 @@ $mod_strings = array (
   'LBL_FINISH' => 'Einde',
   'LBL_PREDECESSORS' => 'Voorgangers',
   'LBL_PERCENT_COMPLETE' => '% compleet',
-
   'LBL_MORE' => 'Meer...',
 
   'LBL_PERCENT_BUSY' => '% bezig',
-
   'LBL_TASK_ID_WIDGET' => 'id',
   'LBL_TASK_NAME_WIDGET' => 'description',
   'LBL_DURATION_WIDGET' => 'duration',
@@ -103,8 +104,8 @@ $mod_strings = array (
   'LBL_FINISH_WIDGET' => 'date_finish',
   'LBL_PREDECESSORS_WIDGET' => 'predecessors_',
   'LBL_PERCENT_COMPLETE_WIDGET' => 'percent_complete',
+  'LBL_EDITLAYOUT' => 'Wijzig lay-out',
 
-  'LBL_EDIT_PROJECT_TASKS_TITLE' => 'Wijzig projecttaken',
 'LBL_OPPORTUNITIES' => 'Kansen',
 'LBL_LAST_WEEK' => 'Vorige',
 'LBL_NEXT_WEEK' => 'Volgende',
@@ -112,7 +113,10 @@ $mod_strings = array (
 'LBL_PROJECTTASK_SUBPANEL_TITLE' => 'Project taken',
 'LBL_HOLIDAYS_SUBPANEL_TITLE' => 'Vakanties',
 'LBL_PROJECT_INFORMATION' => 'Project overzicht',
-//640
-'LBL_EDITLAYOUT' => 'Wijzig lay-out',
-'LBL_INSERTROWS' => 'Rijen invoegen',
+'LBL_EDITLAYOUT' => 'Edit Layout' /*for 508 compliance fix*/,
+'LBL_INSERTROWS' => 'Rijen invoegen', /*for 508 compliance fix*/,
+'LBL_PROJECT_INFORMATION' => 'Overzicht',
+//obsolate
+'LBL_EDIT_PROJECT_TASKS_TITLE' => 'Wijzig projecttaken',
+
 );

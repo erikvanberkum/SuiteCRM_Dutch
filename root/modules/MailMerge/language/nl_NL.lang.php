@@ -3,6 +3,8 @@ if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 
 /**
+ * Dutch Language file SuiteCRM version 7 
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com) 
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * Copyright (c) 2007-2009 Madcap BV (http://www.madcap.nl)
  * All rights reserved.
@@ -43,8 +45,12 @@ $mod_strings = array (
   'LBL_CONTAINS_CONTACT_INFO' => 'Geselecteerde template bevat gerelateerde ',
   'LBL_ADDIN_NOTICE' => 'Hiervoor heb je de Sugar Mail Merge Plug-in voor Microsoft Word nodig.',
   'LBL_BROWSER_NOTICE' => 'Je hebt Internet Explorer 6.0 of hoger nodig voor het Samenvoegen.'
-//640
-'LBL_REMOVE' => 'Verwijder items',
-'LBL_ADD' => 'Toevoegen item(s)',
-'LBL_REMOVE' => 'Verwijder item(s)',
+  'LBL_REMOVE' => 'Verwijder item(s)',
+  'LBL_ADD' => 'Toevoegen item(s)',
+  'LBL_BROWSER_REQUIREMENT' => 'Dit vereist IE 6.0 of hooger voor Windows.',
+  'LBL_FORM_SELECT_TEMPLATE' => 'Selecteer een template.',
+  'LBL_SELECT_ONE' => 'Selecteer AUB minimaal een item.',
+  'LBL_AVAILABLE' => 'Beschikbaar',
+  'LBL_SELECTED' => 'Geselecteerd',
+  'LBL_RELATED_INFO_SELECTION' => 'Use the selections below to identify the related information you would like to display in your merged document. Skip this step if your template document contains no related information.',
 );
