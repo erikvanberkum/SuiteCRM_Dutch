@@ -3,6 +3,8 @@ if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 
 /**
+ * Dutch Language file SuiteCRM version 7 
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com)
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * All rights reserved.
  *
@@ -21,13 +23,13 @@ $mod_strings = array (
   'LIST_ROLES' => 'Toon rollen',
   'LBL_USERS_SUBPANEL_TITLE' => 'Gebruikers',
   'LIST_ROLES_BY_USER' => 'Toon rollen per gebruiker',
+  'LBL_LIST_FORM_TITLE' => 'Rollen',
   'LBL_ROLES_SUBPANEL_TITLE' => 'Gebruikers rollen',
   'LBL_SEARCH_FORM_TITLE' => 'Zoeken',
   'LBL_CREATE_ROLE' => 'Nieuwe rol',
   'LBL_EDIT_VIEW_DIRECTIONS' => 'Dubbelklik op een cel om de waarde te wijzigen',
   'LBL_ACCESS_DEFAULT' => 'Standaard',
+  'LBL_ACTION_ADMIN' => 'Toegang tot Type',
   'LBL_ALL' => 'Alles',
   'LBL_DUPLICATE_OF' => 'Duplicaat van ',
-'LBL_LIST_FORM_TITLE' => 'Rollen',
-'LBL_ACTION_ADMIN' => 'Toegang tot Type',
 );

@@ -2,6 +2,8 @@
 if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 /**
+ * Dutch Language file SuiteCRM version 7 
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com) 
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * Copyright (c) 2007-2009 Madcap BV (http://www.madcap.nl)
  * All rights reserved.
@@ -58,20 +60,11 @@ $mod_strings = array (
   'LBL_DATE_START_FLAG' => 'Geen begindatum',
   'ERR_DELETE_RECORD' => 'Er moet een record nummer zijn gespecificeerd om deze RSS nieuwsfeed te verwijderen',
   'ERR_INVALID_HOUR' => 'Voert u hier a.u.b een uur in tussen 0 and 24',
-  'LBL_DEFAULT_STATUS' => 'Not started',
   'LBL_DEFAULT_PRIORITY' => 'Medium',
-  'LBL_LIST_MY_TASKS' => 'Mijn openstaande taken',
-  'LNK_NEW_CALL' => 'Nieuw telefoongesprek',
-  'LNK_NEW_MEETING' => 'Nieuwe afspraak',
+  'LBL_LIST_MY_TASKS' => 'Mijn openstaande taken', 
   'LNK_NEW_TASK' => 'Nieuwe taak',
-  'LNK_NEW_NOTE' => 'Nieuwe notitie of bijlage',
-  'LNK_NEW_EMAIL' => 'E-mail archiveren',
-  'LNK_CALL_LIST' => 'Telefoongesprekken',
-  'LNK_MEETING_LIST' => 'Afspraken',
   'LNK_TASK_LIST' => 'Taken',
-  'LNK_NOTE_LIST' => 'Notities',
-  'LNK_EMAIL_LIST' => 'E-mails',
-  'LNK_VIEW_CALENDAR' => 'Vandaag',
+  'LNK_IMPORT_TASKS' => 'Importeren taken',
   'LBL_CONTACT_FIRST_NAME' => 'Voornaam contactpersoon',
   'LBL_CONTACT_LAST_NAME' => 'Achternaam contactpersoon',
   'LBL_LIST_ASSIGNED_TO_NAME' => 'Toegewezen gebruiker',
@@ -81,21 +74,29 @@ $mod_strings = array (
   'LBL_PARENT_ID' => 'Parent ID:',
   'LBL_CONTACT_PHONE' => 'Contactpersoon telefoon:',
   'LBL_PARENT_NAME' => 'Gerelateerd aan type:',
-'LBL_TASK_INFORMATION' => 'Taak Overzicht',
-'LBL_ACTIVITIES_REPORTS' => 'Activiteitenrapport',
-'LBL_ACTIVITIES_REPORTS' => 'Activiteitenrapporten',
-'LNK_IMPORT_TASKS' => 'Import taken',
-'LNK_IMPORT_TASKS' => 'Importeren taken',
-'LBL_ACTIVITIES_REPORTS' => 'Activiteitenverslag',
-'LBL_TASK_INFORMATION' => 'Taak Overzicht',
-//640
-'LBL_EDITLAYOUT' => 'Bewerk lay-out',
-'LBL_HISTORY_SUBPANEL_TITLE' => 'Notities',
-'LBL_DATE_DUE' => 'Vervaldatum',
-'LBL_EXPORT_ASSIGNED_USER_NAME' => 'Toegewezen gebruikersnaam',
-'LBL_EXPORT_ASSIGNED_USER_ID' => 'Toegewezen gebruikers-ID',
-'LBL_EXPORT_MODIFIED_USER_ID' => 'Gewijzigd door ID',
-'LBL_EXPORT_CREATED_BY' => 'Aangemaakt door ID',
-'LBL_EXPORT_PARENT_TYPE' => 'Gerelateerd aan module',
-'LBL_EXPORT_PARENT_ID' => 'Gerelateerd naar ID',
+  'LBL_ACTIVITIES_REPORTS' => 'Activiteitenrapporten',
+  'LBL_TASK_INFORMATION' => 'Taak Overzicht',
+  'LBL_EDITLAYOUT' => 'Bewerk lay-out',
+  'LBL_TASK_INFORMATION' => 'Taak Overzicht',
+  'LBL_HISTORY_SUBPANEL_TITLE' => 'Notities',
+   //For export labels
+   'LBL_DATE_DUE' => 'Vervaldatum',
+  'LBL_EXPORT_ASSIGNED_USER_NAME' => 'Toegewezen gebruikersnaam',
+  'LBL_EXPORT_ASSIGNED_USER_ID' => 'Toegewezen gebruikers-ID',
+  'LBL_EXPORT_MODIFIED_USER_ID' => 'Gewijzigd door ID',
+  'LBL_EXPORT_CREATED_BY' => 'Aangemaakt door ID',
+  'LBL_EXPORT_PARENT_TYPE' => 'Gerelateerd aan module',
+  'LBL_EXPORT_PARENT_ID' => 'Gerelateerd naar ID',
+  'LBL_DEFAULT_STATUS' => 'Not started',
+
+//obsolate
+'LNK_NEW_NOTE' => 'Nieuwe notitie of bijlage',
+  'LNK_NEW_EMAIL' => 'E-mail archiveren',
+  'LNK_CALL_LIST' => 'Telefoongesprekken',
+  'LNK_MEETING_LIST' => 'Afspraken', 
+  'LNK_NOTE_LIST' => 'Notities',
+  'LNK_EMAIL_LIST' => 'E-mails',
+  'LNK_VIEW_CALENDAR' => 'Vandaag',
+  'LNK_NEW_CALL' => 'Nieuw telefoongesprek',
+  'LNK_NEW_MEETING' => 'Nieuwe afspraak',
 );

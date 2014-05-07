@@ -125,3 +125,15 @@ Diff \modules\Releases\language\nl_NL.lang.php
 Diff \modules\Roles\language\nl_NL.lang.php
 Diff \modules\SavedSearch\language\nl_NL.lang.php
 Diff \modules\Schedulers\language\nl_NL.lang.php
+Commit Changes 20140503
+Added file \modules\SecurityGroups\language\nl_NL.lang.php  already availabel in suiteCRM
+Diff \modules\SchedulersJobs\language\nl_NL.lang.php
+Diff \modules\Studio\language\nl_NL.lang.php
+Diff \modules\SugarFeed\language\nl_NL.lang.php
+Diff \modules\Tasks\language\nl_NL.lang.php
+Diff \modules\Trackers\language\nl_NL.lang.php
+Diff \modules\UpgradeWizard\language\nl_NL.lang.php large file to translate only upgrade wizard not for users important
+Cant find en_us language file in suiteCRM directory \modules\UserPreferences\language\nl_NL.lang.php
+Diff \modules\Users\language\nl_NL.lang.php
+Diff \modules\Versions\language\nl_NL.lang.php
+Diff double check \modules\Accounts\language\nl_NL.lang.php
