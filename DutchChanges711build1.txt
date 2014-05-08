@@ -137,3 +137,24 @@ Cant find en_us language file in suiteCRM directory \modules\UserPreferences\lan
 Diff \modules\Users\language\nl_NL.lang.php
 Diff \modules\Versions\language\nl_NL.lang.php
 Diff double check \modules\Accounts\language\nl_NL.lang.php
+Diff double check \modules\ACLRoles\language\nl_NL.lang.php
+Commit changes Changes 20140504
+Diff \root\include\SugarObjects\templates\basic\language\nl_NL.lang.php
+obsolate???? \root\include\SugarObjects\templates\chance\language\application\nl_NL.lang.php
+obsolate???? \root\include\SugarObjects\templates\chance\language\nl_NL.lang.php
+Diff \root\include\SugarObjects\templates\company\language\application\nl_NL.lang.php is different kept unchanged $app_list_strings = array (
+Diff \root\include\SugarObjects\templates\file\language\nl_NL.lang.php
+Diff \root\include\SugarObjects\templates\issue\language\nl_NL.lang.php
+Diff \root\include\SugarObjects\templates\person\language\nl_NL.lang.php
+Diff \root\include\SugarObjects\templates\sale\language\application\nl_NL.lang.php
+Diff \root\include\SugarObjects\templates\sale\language\nl_NL.lang.php  partyly english not sure why
+
+
+
+
+
+
+
+
+
+

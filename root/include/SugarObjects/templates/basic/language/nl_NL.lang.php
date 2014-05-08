@@ -3,6 +3,8 @@ if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 
 /**
+ * Dutch Language file SuiteCRM version 7 
+ * Copyright (c) 2014 Acniti (http:/www.acniti.com) 
  * Copyright (c) 2007 Madcap BV (http://www.madcap.nl)
  * All rights reserved.
  *
@@ -16,13 +18,16 @@ $mod_strings = array (
   'LBL_DATE_ENTERED' => 'Aanmaakdatum',
   'LBL_DATE_MODIFIED' => 'Datum gewijzigd',
   'LBL_MODIFIED' => 'Gewijzigd door',
-	"LBL_MODIFIED_ID" => "Gewijzigd door ID",
-	"LBL_MODIFIED_NAME" => "Gewijzigd door naam",
+	'LBL_MODIFIED_ID' => 'Gewijzigd door ID',
+	'LBL_MODIFIED_NAME' => 'Gewijzigd door naam',
   'LBL_CREATED' => 'Aangemaakt door',
-	"LBL_CREATED_ID" => "Gemaakt door ID",
+	'LBL_CREATED_ID' => 'Gemaakt door ID',
   'LBL_DESCRIPTION' => 'Beschrijving',
   'LBL_DELETED' => 'Verwijderd',
   'LBL_NAME' => 'Naam',
   'LBL_CREATED_USER' => 'Aangemaakt door gebruiker',
-  'LBL_MODIFIED_USER' => 'Gewijzigd door gebruiker'
+  'LBL_MODIFIED_USER' => 'Gewijzigd door gebruiker',
+  'LBL_LIST_NAME'=>'Naam',
+  'LBL_EDIT_BUTTON' => 'Bewerken',
+  'LBL_REMOVE' => 'Verwijderen',
 );

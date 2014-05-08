@@ -35,13 +35,15 @@
   *********************************************************************************/
 
   /*********************************************************************************
-  * Translation by Madcap - http://www.madcap.nl
+  * Translation update by Acniti - http://www.acniti.com 
+  *  Translation by Madcap - http://www.madcap.nl
   * Released under GPL 3
   *********************************************************************************/
 
 if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 $app_list_strings = array ( 
+
    '_priority_dom' => array (
       'P1' => 'Hoog' ,
       'P2' => 'Medium' ,
@@ -62,6 +64,7 @@ $app_list_strings = array (
       'Duplicate' => 'Dupliceer'   ),
    '_type_dom' => array (
       'Administration' => 'Administration' ,
+      'Product' => 'Produkt',
       'User' => 'Gebruiker'   ));
 
 ?>

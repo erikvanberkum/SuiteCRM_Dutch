@@ -12,6 +12,7 @@ if (!defined('sugarEntry') || !sugarEntry)
  */
 
 $mod_strings = array (
+
   'LBL_NAME' => 'Naam',
   'LBL_NUMBER' => 'Nummer:',
   'LBL_STATUS' => 'Status:',
@@ -29,6 +30,12 @@ $mod_strings = array (
   'LBL_MODIFIED_BY' => 'Laatste wijziging door:',
   'LBL_ASSIGNED_USER' => 'Toegewezen gebruiker:',
   'LBL_SYSTEM_ID' =>'System Id:',
+    'LBL_TYPE' => 'Type:',
+    'LBL_SUBJECT' => 'Onderwerp:',
+
+    'LBL_EDIT_BUTTON' => 'Bewerk',
+    'LBL_REMOVE' => 'Verwijder',
+  
+  //obsolate
   'LBL_TEAM_NAME' =>'Team naam:',
-  'LBL_TYPE' => 'Type:'
 );

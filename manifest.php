@@ -33,8 +33,8 @@ $manifest = array(
   ),
   'author'                    => 'Acniti',
   'description'               => 'Dutch language for SuiteCRM',
-  'published_date'            => '2014-05-02',
-  'version'                   => '7',
+  'published_date'            => '2014-05-08',
+  'version'                   => '7.1.1',
 );
 
 $installdefs = array(

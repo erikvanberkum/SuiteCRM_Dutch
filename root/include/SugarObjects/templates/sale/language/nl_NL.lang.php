@@ -9,7 +9,9 @@ if (!defined('sugarEntry') || !sugarEntry)
  * and distribution of modified versions of this work as long as the
  * above copyright notice is included.
  */
-
+ 
+ //start
+ 
 $mod_strings = array (
   'LBL_MODULE_NAME' => 'Verkoop',
   'LBL_MODULE_TITLE' => 'Verkoop',
@@ -26,7 +28,6 @@ $mod_strings = array (
   'LBL_LIST_SALE_STAGE' => 'Verkoopstadium',
   'LBL_ACCOUNT_ID' => 'Relatie ID',
   'LBL_CURRENCY_ID' => 'Valuta ID',
-
     //DON'T CONVERT THESE THEY ARE MAPPINGS
   'db_sales_stage' => 'LBL_LIST_SALES_STAGE',
   'db_name' => 'LBL_NAME',
@@ -65,7 +66,9 @@ $mod_strings = array (
   'LBL_DATE_CLOSED' => 'Expected Close Date:',
   'LBL_TYPE' => 'Type:',
   'LBL_CAMPAIGN' => 'Campaign:',
-  'LBL_NEXT_STEP' => 'Next Step:',
+   'LBL_LEADS_SUBPANEL_TITLE' => 'Leads',
+  'LBL_PROJECTS_SUBPANEL_TITLE' => 'Projects',
+   'LBL_NEXT_STEP' => 'Next Step:',
   'LBL_LEAD_SOURCE' => 'Lead Source:',
   'LBL_SALES_STAGE' => 'Sales Stage:',
   'LBL_PROBABILITY' => 'Probability (%):',
@@ -84,11 +87,10 @@ $mod_strings = array (
   'LBL_HISTORY_SUBPANEL_TITLE' => 'History',
   'LBL_RAW_AMOUNT' => 'Raw Amount',
 
-  'LBL_LEADS_SUBPANEL_TITLE' => 'Leads',
+
   'LBL_CONTACTS_SUBPANEL_TITLE' => 'Contacts',
   'LBL_PROJECTS_SUBPANEL_TITLE' => 'Projects',
-  'LBL_ASSIGNED_TO_NAME' => 'Assigned to:',
-  'LBL_LIST_ASSIGNED_TO_NAME' => 'Assigned User',
+    'LBL_LIST_ASSIGNED_TO_NAME' => 'Assigned User',
   'LBL_MY_CLOSED_SALES' => 'My Closed Sales',
   'LBL_TOTAL_SALES' => 'Total Sales',
   'LBL_CLOSED_WON_SALES' => 'Closed Won Sales',
@@ -97,7 +99,14 @@ $mod_strings = array (
   'LBL_MODIFIED_ID' => 'Modified by ID',
   'LBL_MODIFIED_NAME' => 'Modified by User Name',
   'LBL_SALE_INFORMATION' => 'Sale Information',
+  'LBL_CURRENCY_ID'=>'Currency ID',
+  'LBL_CURRENCY_NAME'=>'Currency Name',
+  'LBL_CURRENCY_SYMBOL'=>'Currency Symbol',
+  'LBL_EDIT_BUTTON' => 'Edit',
+   'LBL_REMOVE' => 'Remove',
 
-
+   //obsolate
+   'LBL_ASSIGNED_TO_NAME' => 'Assigned to:',
+   'LBL_LEADS_SUBPANEL_TITLE' => 'Leads',
 );
 ?>

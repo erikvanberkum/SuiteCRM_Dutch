@@ -52,6 +52,7 @@ $mod_strings = array (
 	'LBL_DOCUMENT_ID' => 'Document ID',
 	'LBL_NAME' => 'Document naam',
 	'LBL_DESCRIPTION' => 'Omschrijving',
+  'LBL_ASSIGNED_TO' => 'Toegewezen aan:',
 	'LBL_CATEGORY' => 'Categorie',
 	'LBL_SUBCATEGORY' => 'Subcategorie',
 	'LBL_STATUS' => 'Status',
@@ -73,14 +74,12 @@ $mod_strings = array (
 	//document edit and detail view
 	'LBL_DOC_NAME' => 'Document naam:',
 	'LBL_FILENAME' => 'Bestandsnaam',
+  'LBL_FILE_UPLOAD' => 'Bestandsnaam:',
 	'LBL_DOC_VERSION' => 'Revisie:',
 	'LBL_CATEGORY_VALUE' => 'Categorie:',
 	'LBL_SUBCATEGORY_VALUE'=> 'Subcategorie:',
 	'LBL_DOC_STATUS'=> 'Status:',
 	'LBL_DET_TEMPLATE_TYPE'=>'Document type:',
-
-
-
 	'LBL_DOC_DESCRIPTION'=>'Omschrijving:',
 	'LBL_DOC_ACTIVE_DATE'=> 'Publiceerdatum:',
 	'LBL_DOC_EXP_DATE'=> 'Verloopdatum:',
@@ -117,4 +116,7 @@ $mod_strings = array (
 	'LBL_TREE_TITLE' => 'Documenten',
 	//sub-panel vardefs.
 	'LBL_LIST_DOCUMENT_NAME'=>'Document naam',
+  
+  'LBL_EDIT_BUTTON' => 'Bewerken ',
+    'LBL_REMOVE' => 'Verwijderen'
 );

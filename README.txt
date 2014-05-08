@@ -1,7 +1,7 @@
 ======================================================================
-Dutch Language Pack by Prudento - http://www.prudento.com
+Dutch Language SuiteCRM
 ======================================================================
-Copyright (c) 2014
+Copyright (c) 2014  Acniti(http:www.acniti.com)
 Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
 Copyright (c) 2009 Madcap BV (http://www.madcap.nl) (no langer active)
 All rights reserved.
@@ -10,6 +10,7 @@ Permission is granted for use, copying, modification, distribution,
 and distribution of modified versions of this work as long as the
 above copyright notice is included.
 
+@suiteCRM compatibility Erik van Berkum 
 @author Wichard Noppert <w.noppert@prudento.com>
 @package MadDLP
 
@@ -25,7 +26,7 @@ installation:
 ======================================================================
 UPGRADING
 ======================================================================
-Remember to uninstall the old langauge files for SugarCRM will find it
+Remember to uninstall the old language files for SugarCRM will find it
 hard to replace your old translation. Log in using another language,
 uninstall Dutch Language Pack, delete the file and upload and install
 the new translation.
@@ -33,11 +34,11 @@ the new translation.
 ======================================================================
 CONTRIBUTIONS
 ======================================================================
-***Please submit your contributions to w.noppert@prudento.com***
+***Please submit your contributions to erik@vanberkum.me ***
 ***Please contribute at least:
    - one _file_ which matches all strings from a *current*  en_us file
 ***Please follow Dutch language rules
-See also our Open Source website at: http://www.prudento.com
+
 
 ======================================================================
 SCOPE
@@ -53,73 +54,89 @@ STATUS
 ======================================================================
 Modules---------------------------------------------------------------
 	MODULE		           LANGUAGE STRINGS
-  Accounts             6.4.0
-  ACL                  6.4.0
-  ACLActions           6.4.0
-  ACLRoles             6.4.0
-  Activities           6.4.0
+  Accounts             6.5.16 for SuiteCRM 7.1.1 
+  ACL                  6.5.16 for SuiteCRM 7.1.1
+  ACLActions           6.5.16 for SuiteCRM 7.1.1
+  ACLRoles             6.5.16 for SuiteCRM 7.1.1
+  Activities           6.5.16 for SuiteCRM 7.1.1
   Administration       inherit
-  Audit                6.4.0
-  Bugs                 6.4.0
-  Calendar             6.4.0
-  Calls                6.4.0
-  CampaignLog          6.4.0
-  Campaigns            6.4.0
-  CampaignTrackers     6.4.0
-  Cases                6.4.0
-  Charts               6.4.0
-  Configurator         6.4.0
-  Connectors           6.4.0
-  Contacts             6.4.0
-  Currencies           6.4.0
-  Dashboard            6.4.0
-  DocumentRevisions    6.4.0
-  Documents            6.4.0
-  DynamicFields        6.4.0
-  EditCustomFields     6.4.0
-  EmailAddresses       6.4.0
-  EmailMan             6.4.0
-  EmailMarketing       6.4.0
-  Emails               6.4.0
-  EmailTemplates       6.4.0
-  Employees            6.4.0
-  Feeds                6.4.0
-  Groups               6.4.0
-  Help                 6.4.0
-  History              6.4.0
-  Home                 6.4.0
-  iFrames              6.4.0
-  Import               6.4.0
-  InboundEmail         6.4.0
-  LabelEditor          6.4.0
-  Leads                6.4.0
-  MailMerge            6.4.0
-  Meetings             6.4.0
-  MergeRecords         6.4.0
-  ModuleBuilder        6.4.0
-  MySettings           6.4.0
-  Notes                6.4.0
-  Opportunities        6.4.0
-  OptimisticLock       6.4.0
-  Project              6.4.0
-  ProjectTask          6.4.0
-  ProspectLists        6.4.0
-  Prospects            6.4.0
-  Relationships        6.4.0
-  Releases             6.4.0
-  Roles                6.4.0
-  SavedSearch          6.4.0
-  Schedulers           6.4.0
-  SchedulersJobs       6.4.0
-  Studio               inherit
-  SugarFeed            6.4.0
-  Tasks                6.4.0
-  Trackers             6.4.0
-  UpgradeWizard        6.4.0
+  AOD_Index            6.5.16 for SuiteCRM 7.1.1
+  AOS_Contracts        6.5.16 for SuiteCRM 7.1.1
+  AOS_Invoices         6.5.16 for SuiteCRM 7.1.1
+  AOS_Line_Item_Groups 6.5.16 for SuiteCRM 7.1.1
+  AOS_PDF_Templates    6.5.16 for SuiteCRM 7.1.1
+  AOS_Products         6.5.16 for SuiteCRM 7.1.1
+  AOS_Products_Quotes  6.5.16 for SuiteCRM 7.1.1
+  AOS_Quotes           6.5.16 for SuiteCRM 7.1.1
+  Audit                6.5.16 for SuiteCRM 7.1.1
+  Bugs                 6.5.16 for SuiteCRM 7.1.1
+  Calendar             6.5.16 for SuiteCRM 7.1.1
+  Calls                6.5.16 for SuiteCRM 7.1.1
+  Calls_Reschedule     6.5.16 for SuiteCRM 7.1.1
+  CampaignLog          6.5.16 for SuiteCRM 7.1.1
+  Campaigns            6.5.16 for SuiteCRM 7.1.1
+  CampaignTrackers     6.5.16 for SuiteCRM 7.1.1
+  Cases                6.5.16 for SuiteCRM 7.1.1
+  Charts               6.5.16 for SuiteCRM 7.1.1
+  Configurator         6.5.16 for SuiteCRM 7.1.1
+  Connectors           6.5.16 for SuiteCRM 7.1.1
+  Contacts             6.5.16 for SuiteCRM 7.1.1
+  Currencies           6.5.16 for SuiteCRM 7.1.1
+  Delegates            6.5.16 for SuiteCRM 7.1.1
+  DocumentRevisions    6.5.16 for SuiteCRM 7.1.1
+  Documents            6.5.16 for SuiteCRM 7.1.1
+  DynamicFields        6.5.16 for SuiteCRM 7.1.1
+  EAPM                 6.5.16 for SuiteCRM 7.1.1
+  EmailAddresses       6.5.16 for SuiteCRM 7.1.1
+  EmailMan             6.5.16 for SuiteCRM 7.1.1
+  EmailMarketing       6.5.16 for SuiteCRM 7.1.1
+  Emails               6.5.16 for SuiteCRM 7.1.1
+  EmailTemplates       6.5.16 for SuiteCRM 7.1.1
+  EmailText            6.5.16 for SuiteCRM 7.1.1
+  Employees            6.5.16 for SuiteCRM 7.1.1
+  FP_Event_Locations   6.5.16 for SuiteCRM 7.1.1
+  FP_events            6.5.16 for SuiteCRM 7.1.1
+  Groups               6.5.16 for SuiteCRM 7.1.1
+  Help                 6.5.16 for SuiteCRM 7.1.1
+  History              6.5.16 for SuiteCRM 7.1.1
+  Home                 6.5.16 for SuiteCRM 7.1.1
+  Import               6.5.16 for SuiteCRM 7.1.1
+  InboundEmail         6.5.16 for SuiteCRM 7.1.1
+  jjwg_Address_Chache  6.5.16 for SuiteCRM 7.1.1
+  jjwg_Areas           6.5.16 for SuiteCRM 7.1.1
+  jjwg_Maps            6.5.16 for SuiteCRM 7.1.1
+  jjwg_Markers         6.5.16 for SuiteCRM 7.1.1
+  LabelEditor          6.5.16 for SuiteCRM 7.1.1
+  Leads                6.5.16 for SuiteCRM 7.1.1
+  MailMerge            6.5.16 for SuiteCRM 7.1.1
+  Meetings             6.5.16 for SuiteCRM 7.1.1
+  MergeRecords         6.5.16 for SuiteCRM 7.1.1
+  ModuleBuilder        6.5.16 for SuiteCRM 7.1.1
+  MySettings           6.5.16 for SuiteCRM 7.1.1
+  Notes                6.5.16 for SuiteCRM 7.1.1
+  OAuthKeys            6.5.16 for SuiteCRM 7.1.1
+  OauthTokens          6.5.16 for SuiteCRM 7.1.1
+  Opportunities        6.5.16 for SuiteCRM 7.1.1
+  OptimisticLock       6.5.16 for SuiteCRM 7.1.1
+  Project              6.5.16 for SuiteCRM 7.1.1
+  ProjectTask          6.5.16 for SuiteCRM 7.1.1
+  ProspectLists        6.5.16 for SuiteCRM 7.1.1
+  Prospects            6.5.16 for SuiteCRM 7.1.1
+  Relationships        6.5.16 for SuiteCRM 7.1.1
+  Releases             6.5.16 for SuiteCRM 7.1.1
+  Roles                6.5.16 for SuiteCRM 7.1.1
+  SavedSearch          6.5.16 for SuiteCRM 7.1.1
+  Schedulers           6.5.16 for SuiteCRM 7.1.1
+  SchedulersJobs       6.5.16 for SuiteCRM 7.1.1
+  Studio               6.5.16 for SuiteCRM 7.1.1
+  SugarFeed            6.5.16 for SuiteCRM 7.1.1
+  Tasks                6.5.16 for SuiteCRM 7.1.1
+  Trackers             6.5.16 for SuiteCRM 7.1.1
+  UpgradeWizard        6.5.16 for SuiteCRM 7.1.1
   UserPreferences      no strings
-  Users                6.4.0
+  Users                6.5.16 for SuiteCRM 7.1.1
   vCals                no strings
-  Versions             6.4.0
+  Versions             6.5.16 for SuiteCRM 7.1.1
   Application-----------------------------------------------------------
   Javascript calendar:        5.5.0a
   PHPMailer:                  5.5.0a
@@ -127,13 +144,13 @@ Modules---------------------------------------------------------------
   SugarObjects--------------------------------------------------------
     assignable         5.5.0a
     team_security      5.5.0a
-    basic              5.5.0a
+    basic              6.5.16 for SuiteCRM 7.1.1
     chance             5.5.0a
-    company            5.5.0a
-    issue              5.5.0a
-    file               5.5.0a
-    person             5.5.0a
-    sale               5.5.0a
+    company            6.5.16 for SuiteCRM 7.1.1
+    file               6.5.16 for SuiteCRM 7.1.1
+    issue              6.5.16 for SuiteCRM 7.1.1
+    person             6.5.16 for SuiteCRM 7.1.1
+    sale               6.5.16 for SuiteCRM 7.1.1
   SugarFields---------------------------------------------------------
     Address            5.5.0a
 Installer              inherit
@@ -152,6 +169,14 @@ directory.
 ======================================================================
 VERSION HISTORY
 ======================================================================
+711 build 1 7-5-2014
+- Cleaned up all files, put the strings in same order as en_us language files
+- Removed unused translation files
+- Added Calls_Reschedule 
+- Added jjwg_Maps 
+- Added .....
+- More detailed report about the changes check DutchChanges711build1.txt
+
 640 build 2 - 11-2-2012
 - Update Prudento translations
 - corrected targets translations
