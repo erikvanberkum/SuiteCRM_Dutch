@@ -15,7 +15,7 @@ if (!defined('sugarEntry') || !sugarEntry)
 
 $mod_strings = array (
   'LBL_NAME' => 'Taak naam',
-  'LBL_EXECUTE_TIME' => 'Uitvoertijd'
+  'LBL_EXECUTE_TIME' => 'Uitvoertijd',
   'LBL_SCHEDULER_ID' 	=> 'Planner',
 'LBL_STATUS' 	=> 'Taak status',
 'LBL_RESOLUTION' 	=> 'Resultaat',
