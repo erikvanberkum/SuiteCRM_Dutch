@@ -30,7 +30,7 @@ De Nederlandse vertaling van SuiteCRM wordt gratis beschikbaar gesteld door Prud
 </ul>
 
 <h2>Onafhankelijke module namen</h2>
-Deze vertaling is anders dan anders. De Nederlandse vertaling van SugarCRM is
+Deze vertaling is anders dan anders. De Nederlandse vertaling van SuiteCRM is
 intelligent, in de zin dat module namen door de applicatie heen kunnen worden aangepast door op
 &eacute;&eacute;n enkele plek een wijziging te maken. Dit in tegenstelling tot de andere talen,
 waarbij wijzigingen door de applicatie heen moeten worden aangepast.<br><br>

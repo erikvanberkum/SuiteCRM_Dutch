@@ -126,7 +126,7 @@ $mod_strings = array (
 'LBL_CONFIGURE_GROUP_TABS' => 'Instellingen module menu filters',
  //end bug #15095 fix
 'LBL_GROUP_TAB_WELCOME'=>'De filters hieronder zullen te zien zijn in de Meer lijst in het module menu voor gebruikers, tevens voor een overzicht voor groepen modulen in de menu structuur. Sleep en zet neer de modulen van de filters. Opmerking: Lege filters zullen niet getoont worden in het menu',
-'LBL_RENAME_TAB_WELCOME'=>'Kliko op een tab\'s Toon de waarde in de tabel hier beneden om de tab te hernoemen.',
+'LBL_RENAME_TAB_WELCOME'=>'Klik op een tab\'s Toon de waarde in de tabel hier beneden om de tab te hernoemen.',
 'LBL_DELETE_MODULE'=>'Verwijder&nbsp;module<br />van&nbsp;filter',
 'LBL_DISPLAY_OTHER_TAB_HELP' => 'Selecteer de "Andere" tab om deze in het navigatie menu te tonen. Standaard, de "Andere" tab toont alle modulen welke nog niet in een ander groeps menu zijn opgenomen.',
 'LBL_TAB_GROUP_LANGUAGE_HELP' => 'Selecteer een beschikbare taal, bewerk de groep labels en klik Opslaan & Toepassen om de veranderingen door te voeren in de geselecteerde taal.',
@@ -175,7 +175,7 @@ $mod_strings = array (
 'LBL_LANGUAGE_TOOLTIP' => 'Selecteer de taal om te bewerken.',
 'LBL_SINGULAR' => 'Enkelvoud label',
 'LBL_PLURAL' => 'Meervoud label',
-'LBL_RENAME_MOD_SAVE_HELP' => 'Klik <b>Opslaan</b> om de wijzigingen door te voeren.'
+'LBL_RENAME_MOD_SAVE_HELP' => 'Klik <b>Opslaan</b> om de wijzigingen door te voeren.',
 
 //old file
 'LBL_BTN_CANCEL' => 'Annuleer',

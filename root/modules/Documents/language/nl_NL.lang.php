@@ -79,7 +79,7 @@ $mod_strings = array (
   'LBL_DET_TEMPLATE_TYPE' => 'Documenttype:',
   'LBL_DOC_DESCRIPTION' => 'Omschrijving:',
   'LBL_DOC_ACTIVE_DATE' => 'Plaatsings datum:',
-  'LBL_DOC_EXP_DATE' => 'Expiratie datum:',
+  'LBL_DOC_EXP_DATE' => 'Verval datum:',
   
   //document list view.
   'LBL_LIST_FORM_TITLE' => 'Document lijst',
@@ -107,7 +107,7 @@ $mod_strings = array (
   'LBL_SF_CATEGORY' => 'Productcategorie',
   'LBL_SF_SUBCATEGORY' => 'Sub-categorie:',
   'LBL_SF_ACTIVE_DATE' => 'Plaatsings datum:',
-  'LBL_SF_EXP_DATE' => 'Expiratie datum:',
+  'LBL_SF_EXP_DATE' => 'Verval datum:',
   
   'DEF_CREATE_LOG' => 'Document aangemaakt',
   

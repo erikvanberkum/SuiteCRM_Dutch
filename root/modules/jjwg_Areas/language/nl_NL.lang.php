@@ -46,8 +46,8 @@ $mod_strings['LBL_LIST_ASSIGNED_USER'] = 'Gebruiker';
 $mod_strings['LBL_AREA_MAP'] = 'Gebiedskaart';
 
 $mod_strings['LBL_AREA_EDIT_TITLE'] = 'Aanmaken gebiedsinstructies:';
-$mod_strings['LBL_AREA_EDIT_DESC_1'] = 'Klik links op de map, in de richting van de klok, voor het aanmaken van markeerpunten voor het gebied.';
-$mod_strings['LBL_AREA_EDIT_DESC_2'] = 'Klik op het eerste markeerpunt om het polygon gebied te sluiten.';
+$mod_strings['LBL_AREA_EDIT_DESC_1'] = 'Klik links op de map, in de richting van de klok, voor het maken van markeerpunten voor het te selecteren gebied.';
+$mod_strings['LBL_AREA_EDIT_DESC_2'] = 'Klik op het eerste markeerpunt om het polygoon gebied te sluiten.';
 $mod_strings['LBL_AREA_EDIT_RESET'] = 'Reset';
 $mod_strings['LBL_AREA_EDIT_USE_AREA_COORDINATES'] = 'Gebruik gebied coordinaten';
 $mod_strings['LBL_AREA_EDIT_COORDINATE_RESULTS'] = 'Coordinaat Resultaten (lng,lat,elv):';

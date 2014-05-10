@@ -148,7 +148,22 @@ Diff \root\include\SugarObjects\templates\issue\language\nl_NL.lang.php
 Diff \root\include\SugarObjects\templates\person\language\nl_NL.lang.php
 Diff \root\include\SugarObjects\templates\sale\language\application\nl_NL.lang.php
 Diff \root\include\SugarObjects\templates\sale\language\nl_NL.lang.php  partyly english not sure why
+Created \custom\Extension\application\Ext\Language\nl_NL.suitecrm.php
+Created \custom\Extension\application\Ext\Language\nl_NL.sps.php
+Created \custom\Extension\application\Ext\Language\nl_NL.social_fields.php
+Created \custom\Extension\application\Ext\Language\nl_NL.Social.php
+Created \custom\Extension\application\Ext\Language\nl_NL.Reschedule.php
+Created \custom\Extension\application\Ext\Language\nl_NL.Google_Maps_20130815.php
+Created \custom\Extension\application\Ext\Language\nl_NL.Google_Maps_20131011.php
+Created \custom\Extension\application\Ext\Language\nl_NL.Advanced OpenEvents.php
+Created \custom\Extension\application\Ext\Language\nl_NL.AdvancedOpenDiscovery.php
+Created \custom\Extension\application\Ext\Language\nl_NL.AdvancedOpenPortal.php
+Created \custom\Extension\application\Ext\Language\nl_NL.AdvancedOpenReports.php
+Created \custom\Extension\application\Ext\Language\nl_NL.AdvancedOpenWorkflow.php
+Created \custom\Extension\application\Ext\Language\nl_NL.AdvancedOpenSales.php
 
+Errors
+http:///suitecrm/index.php?module=Campaigns&action=index english text
 
 
 

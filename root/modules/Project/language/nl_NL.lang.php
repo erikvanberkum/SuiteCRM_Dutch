@@ -113,7 +113,7 @@ $mod_strings = array (
 'LBL_PROJECTTASK_SUBPANEL_TITLE' => 'Project taken',
 'LBL_HOLIDAYS_SUBPANEL_TITLE' => 'Vakanties',
 'LBL_PROJECT_INFORMATION' => 'Project overzicht',
-'LBL_EDITLAYOUT' => 'Edit Layout'
+'LBL_EDITLAYOUT' => 'Edit Layout',
 'LBL_INSERTROWS' => 'Rijen invoegen',
 'LBL_PROJECT_INFORMATION' => 'Overzicht',
 //obsolate

@@ -25,7 +25,7 @@ $manifest = array(
   'is_uninstallable'          => true,
   'acceptable_sugar_versions' => array(
     'regex_matches' => array(
-      0 => "6.*.*",
+      0 => "6.5.16",
     ),
   ),
   'acceptable_sugar_flavors'  => array(
@@ -33,7 +33,7 @@ $manifest = array(
   ),
   'author'                    => 'Acniti',
   'description'               => 'Dutch language for SuiteCRM',
-  'published_date'            => '2014-05-08',
+  'published_date'            => '2014-05-09',
   'version'                   => '7.1.1',
 );
 
