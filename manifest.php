@@ -67,8 +67,16 @@ $installdefs = array(
      array(
       'from'                  => '<basepath>/custom/Extension/application/Ext/Language',
       'to'                    => 'custom/Extension/application/Ext/Language',
-    ),
    ),
+   array(
+      'from'                  => '<basepath>/custom/Extension/modules/Administration/Ext/Language',
+      'to'                    => 'custom/Extension/modules/Administration/Ext/Language',
+   ),
+   array( 
+      'from'                  => '<basepath>/custom/Extension/modules/DynamicFields/Ext/Language/nl_NL.AdvancedOpenPortal.php',
+      'to'                    => 'custom/Extension/modules/DynamicFields/Ext/Language/nl_NL.AdvancedOpenPortal.php',
+    ), 
+  ),
   'administration'    => array(
     array(
       'from'                  => '<basepath>/administration/dutch.php',

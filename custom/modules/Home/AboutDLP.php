@@ -1,6 +1,7 @@
 <!--
 
 /**
+ * Copyright (c) 2014 Acniti (http://www.acniti.com) 
  * Copyright (c) 2010-12 Prudento (http://www.prudento.com)
  * Copyright (c) 2009 Madcap B.V. (http://madcap.nl)
  * All rights reserved.
@@ -19,13 +20,11 @@
 -->
 
 <h1>Nederlandse vertaling voor SuiteCRM</h1>
-De Nederlandse vertaling van SuiteCRM wordt gratis beschikbaar gesteld door Prudento (<a target="_blank" href="http://www.prudento.com">http://www.prudento.com</a>).
+De Nederlandse vertaling van SuiteCRM wordt gratis beschikbaar gesteld door Acniti (<a target="_blank" href="http://www.acniti.com">http://www.acniti.com</a>).
 <ul>
+  
   <li>
-    Kijk regelmatig op de projectpagina om te kijken of er een nieuwere versie is
-  </li>
-  <li>
-    Projectpagina: <a href="http://www.sugarforge.org/projects/dutch-madcap/" target="_blank">SugarForge Dutch Language Pack</a>
+    Projectpagina: <a href="https://github.com/erikvanberkum/SuiteCRM_Dutch" target="_blank">Github Dutch Language Pack</a>
   </li>
 </ul>
 
@@ -37,15 +36,16 @@ waarbij wijzigingen door de applicatie heen moeten worden aangepast.<br><br>
 
 <h2>Modules hernoemen</h2>
 Om een module te hernoemen kunt u de opties in het Configuratie scherm gebruiken. U kunt zowel de
-enkelvoudige, meervoudige als het geslacht van het woord opgeven en deze zullen door heel SugarCRM
+enkelvoudige, meervoudige als het geslacht van het woord opgeven en deze zullen door heel SuiteCRM
 heen worden gebruikt.
 <br /><br />
-<a href="http://www.prudento.com" target="_blank">
-  <img alt="Prudento" border=0 src="custom/include/dutch/images/prudento_p.png">
+<a href="http://www.acniti.com" target="_blank">
+  <img alt="Acniti" border=0 src="custom/include/dutch/images/prudento_p.png">
 </a>
 <br /><br />
 Met dank aan 
 <a href="http://madcap.nl" target="_blank">
+<a href="http://www.prudento.com" tarfet="_blank">
 madcap
 </a>
  voor al hun harde werk aan het starten van deze Language Pack.

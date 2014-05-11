@@ -161,8 +161,6 @@ Created \custom\Extension\application\Ext\Language\nl_NL.AdvancedOpenPortal.php
 Created \custom\Extension\application\Ext\Language\nl_NL.AdvancedOpenReports.php
 Created \custom\Extension\application\Ext\Language\nl_NL.AdvancedOpenWorkflow.php
 Created \custom\Extension\application\Ext\Language\nl_NL.AdvancedOpenSales.php
-
-Check if installed via manifest.php
 Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.AdvancedOpenSales.php
 Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.AODAdmin.php
 Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.AOPAdmin.php
@@ -171,7 +169,6 @@ Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.Google_Maps_
 Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.Reschedule.php
 Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.QuickCRM_Mobile_CE.php
 Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.Google_Maps_20131011.php
-Check if installed via manifest.php
 Created \custom\Extension\modules\DynamicFields\Ext\Language\nl_NL.AdvancedOpenPortal.php
 
 !!!Created and this directory needs translationC:\Users\Erik\Documents\GitHub\SuiteCRM_Dutch\custom\Extension\modules\Administration\Ext\Language
@@ -179,9 +176,12 @@ Created \custom\Extension\modules\DynamicFields\Ext\Language\nl_NL.AdvancedOpenP
 Errors
 http:///suitecrm/index.php?module=Campaigns&action=index english text
 
+C:\Users\Erik\Documents\GitHub\suitecrm7.1.0\include\javascript\yui\build\dragdrop\dragdrop.js
+/var/www/hasa/suitecrm/include/javascript/yui/dragdrop.js
 
 
-
+add/replace logo C:\Users\Erik\Documents\GitHub\SuiteCRM_Dutch\custom\modules\Home\AboutDLP.php
+custom/include/dutch/images/prudento_p.png 
 
 
 
