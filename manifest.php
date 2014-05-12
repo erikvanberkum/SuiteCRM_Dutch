@@ -33,7 +33,7 @@ $manifest = array(
   ),
   'author'                    => 'Acniti',
   'description'               => 'Dutch language for SuiteCRM',
-  'published_date'            => '2014-05-10',
+  'published_date'            => '2014-05-11',
   'version'                   => '7.1.1',
 );
 
@@ -68,13 +68,9 @@ $installdefs = array(
       'from'                  => '<basepath>/custom/Extension/application/Ext/Language',
       'to'                    => 'custom/Extension/application/Ext/Language',
    ),
-   array(
-      'from'                  => '<basepath>/custom/Extension/modules/Administration/Ext/Language',
-      'to'                    => 'custom/Extension/modules/Administration/Ext/Language',
-   ),
-   array( 
-      'from'                  => '<basepath>/custom/Extension/modules/DynamicFields/Ext/Language/nl_NL.AdvancedOpenPortal.php',
-      'to'                    => 'custom/Extension/modules/DynamicFields/Ext/Language/nl_NL.AdvancedOpenPortal.php',
+   array(                                   
+      'from'                  => '<basepath>/custom/Extension/modules',
+      'to'                    => 'custom/Extension/modules',
     ), 
   ),
   'administration'    => array(

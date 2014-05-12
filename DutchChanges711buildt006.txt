@@ -170,20 +170,34 @@ Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.Reschedule.p
 Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.QuickCRM_Mobile_CE.php
 Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.Google_Maps_20131011.php
 Created \custom\Extension\modules\DynamicFields\Ext\Language\nl_NL.AdvancedOpenPortal.php
+Created \custom\Extension\modules\FP_Event_Locations\Ext\Language\nl_NL.Advanced OpenEvents.php
+Created \custom\Extension\modules\FP_events\Ext\Language\nl_NL.Advanced OpenEvents.php
+Created \custom\Extension\modules\jjwg_Areas\Ext\Language\nl_NL.Google_Maps_20130815.php
+Created \custom\Extension\modules\jjwg_Areas\Ext\Language\nl_NL.Google_Maps_20131011.php
+Created \custom\Extension\modules\jjwg_Maps\Ext\Language\nl_NL.Google_Maps_20130815.php
+Created \custom\Extension\modules\jjwg_Maps\Ext\Language\nl_NL.Google_Maps_20131011.php
+Created \custom\Extension\modules\jjwg_Markers\Ext\Language\nl_NL.Google_Maps_20130815.php
+Created \custom\Extension\modules\jjwg_Markers\Ext\Language\nl_NL.Google_Maps_20131011.php
+Created \custom\Extension\modules\ModuleBuilder\Ext\Language\nl_NL.AdvancedOpenPortal.php
+Created \custom\Extension\modules\Schedulers\Ext\Language\nl_NL.AdvancedOpenDiscovery.php
+Created \custom\Extension\modules\Schedulers\Ext\Language\nl_NL.AdvancedOpenPortal.php 
+Created \custom\Extension\modules\Schedulers\Ext\Language\nl_NL.AdvancedOpenWorkflow.php
+Created \custom\Extension\modules\Users\Ext\Language\nl_NL.suitecrm.php
+Diff \root\include\language\nl_NL.lang.php
 
-!!!Created and this directory needs translationC:\Users\Erik\Documents\GitHub\SuiteCRM_Dutch\custom\Extension\modules\Administration\Ext\Language
-
+'LBL_CREATE_BUTTON_LABEL' => 'Nieuw',
 Errors
 http:///suitecrm/index.php?module=Campaigns&action=index english text
 
 C:\Users\Erik\Documents\GitHub\suitecrm7.1.0\include\javascript\yui\build\dragdrop\dragdrop.js
 /var/www/hasa/suitecrm/include/javascript/yui/dragdrop.js
 
-
 add/replace logo C:\Users\Erik\Documents\GitHub\SuiteCRM_Dutch\custom\modules\Home\AboutDLP.php
 custom/include/dutch/images/prudento_p.png 
 
+check menu why single row and not double row as in english language?
 
 
+    
 
 

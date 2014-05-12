@@ -44,8 +44,7 @@ heen worden gebruikt.
 </a>
 <br /><br />
 Met dank aan 
-<a href="http://madcap.nl" target="_blank">
-<a href="http://www.prudento.com" tarfet="_blank">
-madcap
-</a>
- voor al hun harde werk aan het starten van deze Language Pack.
+<a href="http://madcap.nl" target="_blank">madcap</a>
+<a href="http://www.prudento.com" tarfet="_blank">prudento</a>
+
+voor al hun harde werk aan het starten van deze Language Pack.
