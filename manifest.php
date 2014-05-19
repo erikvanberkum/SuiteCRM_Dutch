@@ -33,7 +33,7 @@ $manifest = array(
   ),
   'author'                    => 'Acniti',
   'description'               => 'Dutch language for SuiteCRM',
-  'published_date'            => '2014-05-11',
+  'published_date'            => '2014-05-19',
   'version'                   => '7.1.1',
 );
 

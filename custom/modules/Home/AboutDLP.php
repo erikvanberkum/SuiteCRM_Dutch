@@ -40,11 +40,11 @@ enkelvoudige, meervoudige als het geslacht van het woord opgeven en deze zullen 
 heen worden gebruikt.
 <br /><br />
 <a href="http://www.acniti.com" target="_blank">
-  <img alt="Acniti" border=0 src="custom/include/dutch/images/prudento_p.png">
+  <img alt="Acniti" border=0 src="custom/include/dutch/images/acniti.png">
 </a>
 <br /><br />
 Met dank aan 
-<a href="http://madcap.nl" target="_blank">madcap</a>
+<a href="http://madcap.nl" target="_blank">madcap</a> en 
 <a href="http://www.prudento.com" tarfet="_blank">prudento</a>
 
 voor al hun harde werk aan het starten van deze Language Pack.
