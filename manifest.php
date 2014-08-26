@@ -25,7 +25,7 @@ $manifest = array(
   'is_uninstallable'          => true,
   'acceptable_sugar_versions' => array(
     'regex_matches' => array(
-      0 => "6.5.16",
+      0 => "6.*.*",
     ),
   ),
   'acceptable_sugar_flavors'  => array(

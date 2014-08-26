@@ -190,6 +190,10 @@ Created  \modules\Connectors\connectors\sources\ext\rest\insideview\language\nl_
 
 Errors and clean up messeges:
 
+PHP Notice:  Undefined property: aCase::$kbdocuments in /var/www/crm2/modules/Configurator/views/view.historycontactsemails.php on line 93, referer: http://hasa/crm2/index.php?module=Administration&action=index
+PHP Fatal error:  Call to a member function getRelatedModuleName() on a non-object in /var/www/crm2/modules/Configurator/views/view.historycontactsemails.php on line 93, referer: http://hasa/crm2/index.php?module=Administration&action=index
+
+
 
 Remarks, 
 The all menu (alles) will be displayed in a single row. While english will be displayed in double rows.
@@ -205,6 +209,17 @@ Bug
 in file \GitHub\suitecrm7.1.1\modules\Studio\wizards\RenameModules.tpl this has to be reported to sugar suitecrm forum.
  states {sugar_getscript file="include/javascript/yui/dragdrop.js"}
  but should be include/javascript/yui/build/dragdrop/dragdrop.js
+ 
+ This error comes when doing a repair!
+[Sun Jun 01 17:23:15 2014] [error] [client 192.168.88.105] File does not exist: /var/www/crm/cache/jsLanguage/en_us.js, referer: http://hasa/crm2/index.php?module=Administration&action=repair
+[Sun Jun 01 17:23:15 2014] [error] [client 192.168.88.105] File does not exist: /var/www/crm/cache/jsLanguage/Administration/en_us.js, referer: http://hasa/crm2/index.php?module=Administration&action=repair
+[Sun Jun 01 17:23:15 2014] [error] [client 192.168.88.105] File does not exist: /var/www/crm/cache/jsLanguage/en_us.js, referer: http://hasa/crm2/index.php?module=Administration&action=repair
+[Sun Jun 01 17:23:15 2014] [error] [client 192.168.88.105] File does not exist: /var/www/crm/cache/jsLanguage/Administration/en_us.js, referer: http://hasa/crm2/index.php?module=Administration&action=repair
+
+
+ 
+
+
 
 
 

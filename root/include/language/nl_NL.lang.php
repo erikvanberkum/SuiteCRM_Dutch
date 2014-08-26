@@ -2399,14 +2399,14 @@ $app_strings = array (
     'LBL_DASHLET_CONFIGURE_AUTOREFRESH' => 'Automatisch verversen',
 
     'LBL_DURATION_DAY' => 'dag',
-    'LBL_DURATION_HOUR' => 'uurr',
+    'LBL_DURATION_HOUR' => 'uur',
     'LBL_DURATION_MINUTE' => 'minuut',
     'LBL_DURATION_DAYS' => 'dagen',
     'LBL_DURATION_HOURS' => 'uren',
     'LBL_DURATION_MINUTES' => 'minuten',
 
     //Calendar widget labels
-    'LBL_CHOOSE_MONTH' => 'Kiees maand',
+    'LBL_CHOOSE_MONTH' => 'Kies maand',
     'LBL_ENTER_YEAR' => 'Voer jaar in',
     'LBL_ENTER_VALID_YEAR' => 'Voer a.u.b. een geldig jaar in',
 
