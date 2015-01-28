@@ -27,7 +27,7 @@ $app_list_strings['map_unit_type_list']['km'] = 'Kilometers';
 
 $app_list_strings['map_module_type_list']['Accounts'] = 'Bedrijven';
 $app_list_strings['map_module_type_list']['Contacts'] = 'Contactpersonen';
-$app_list_strings['map_module_type_list']['Cases'] = 'Klachten';
+$app_list_strings['map_module_type_list']['Cases'] = 'Dossiers';
 $app_list_strings['map_module_type_list']['Leads'] = 'Leads';
 $app_list_strings['map_module_type_list']['Meetings'] = 'Afspraken';
 $app_list_strings['map_module_type_list']['Opportunities'] = 'Kansen';
@@ -36,7 +36,7 @@ $app_list_strings['map_module_type_list']['Prospects'] = 'Doelen';
 
 $app_list_strings['map_relate_type_list']['Accounts'] = 'Bedrijf';
 $app_list_strings['map_relate_type_list']['Contacts'] = 'Contactpersoon';
-$app_list_strings['map_relate_type_list']['Cases'] = 'Klacht';
+$app_list_strings['map_relate_type_list']['Cases'] = 'Dossier';
 $app_list_strings['map_relate_type_list']['Leads'] = 'Lead';
 $app_list_strings['map_relate_type_list']['Meetings'] = 'Afspraak';
 $app_list_strings['map_relate_type_list']['Opportunities'] = 'Kans';

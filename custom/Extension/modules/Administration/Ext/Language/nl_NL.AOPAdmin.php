@@ -35,16 +35,16 @@ $mod_strings['LBL_AOP_ENABLE_PORTAL'] = 'Inschakelen Portal';
 $mod_strings['LBL_AOP_JOOMLA_SETTINGS'] = 'Portal Instellingen';
 $mod_strings['LBL_AOP_JOOMLA_URL'] = 'Joomla URL';
 $mod_strings['LBL_AOP_JOOMLA_ACCESS_KEY'] = 'Joomla toegangssleutel';
-$mod_strings['LBL_AOP_CASE_ASSIGNMENT'] = 'Klachten distributie';
+$mod_strings['LBL_AOP_CASE_ASSIGNMENT'] = 'Dossier toekennen';
 $mod_strings['LBL_AOP_DISTRIBUTION_METHOD'] = 'Distributie methode';
-$mod_strings['LBL_AOP_ASSIGNMENT_USER'] = 'Distributie gebruiker';
+$mod_strings['LBL_AOP_ASSIGNMENT_USER'] = 'Toekennen gebruiker';
 
 $mod_strings['LBL_AOP_EMAIL_SETTINGS'] = 'E-mail Instellingen';
 $mod_strings['LBL_AOP_CONTACT_EMAIL_TEMPLATE'] = 'Contact e-mail sjabloon';
 $mod_strings['LBL_AOP_USER_EMAIL_TEMPLATE'] = 'Gebruiker e-mail Sjabloon';
-$mod_strings['LBL_AOP_CASE_CREATION_EMAIL_TEMPLATE'] = 'Klacht aangemaakt e-mail sjabloon';
-$mod_strings['LBL_AOP_CASE_CLOSURE_EMAIL_TEMPLATE'] = 'Klacht gesloten e-mail sjabloon';
-$mod_strings['LBL_AOP_CASE_REMINDER_EMAIL_TEMPLATE'] = 'Klach herinnering e-mail sjabloon';
+$mod_strings['LBL_AOP_CASE_CREATION_EMAIL_TEMPLATE'] = 'Dossier aangemaakt e-mail sjabloon';
+$mod_strings['LBL_AOP_CASE_CLOSURE_EMAIL_TEMPLATE'] = 'Dossier gesloten e-mail sjabloon';
+$mod_strings['LBL_AOP_CASE_REMINDER_EMAIL_TEMPLATE'] = 'Dossier herinnering e-mail sjabloon';
 $mod_strings['LBL_AOP_JOOMLA_ACCOUNT_CREATION_EMAIL_TEMPLATE'] = 'Joomla Support Portaal Account Creation sjabloon';
 
 $mod_strings['LBL_AOP_BUSINESS_HOURS_SETTINGS'] = 'Kantoor uren';

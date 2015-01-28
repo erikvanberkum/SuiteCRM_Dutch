@@ -31,10 +31,10 @@
  */
 
 
-$app_list_strings['moduleList']['AOP_AOP_Case_Events'] = 'Klacht Evenementen';
-$app_list_strings['moduleList']['AOP_AOP_Case_Updates'] = 'Klacht Updates';
-$app_list_strings['moduleList']['AOP_Case_Events'] = 'Klacht Evenementen';
-$app_list_strings['moduleList']['AOP_Case_Updates'] = 'Klacht Updates';
+$app_list_strings['moduleList']['AOP_AOP_Case_Events'] = 'Dossier Evenementen';
+$app_list_strings['moduleList']['AOP_AOP_Case_Updates'] = 'Dossier Updates';
+$app_list_strings['moduleList']['AOP_Case_Events'] = 'Dossier Evenementen';
+$app_list_strings['moduleList']['AOP_Case_Updates'] = 'Dossier Updates';
 $app_strings['LBL_AOP_EMAIL_REPLY_DELIMITER'] = '========== Gelieve te antwoorden boven deze lijn ==========';
 
 $app_list_strings['case_state_dom'] =
