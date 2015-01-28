@@ -2,7 +2,7 @@
 
 /**
  * Dutch Language file SuiteCRM version 7 
- * Copyright (c) 2014 Acniti (http:/www.acniti.com) 
+ * Copyright (c) 2014-2015 Hortindustrias Ltd.
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com) 
  * Copyright (c) 2007-2009 Madcap BV (http://madcap.nl)(no langer active)
  * All rights reserved.
@@ -31,7 +31,7 @@ $manifest = array(
   'acceptable_sugar_flavors'  => array(
     'CE',
   ),
-  'author'                    => 'Acniti',
+  'author'                    => 'Hortindustrias',
   'description'               => 'Dutch language for SuiteCRM',
   'published_date'            => '2014-05-19',
   'version'                   => '7.1.110',

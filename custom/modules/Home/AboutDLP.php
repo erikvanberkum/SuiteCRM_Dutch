@@ -1,7 +1,7 @@
 <!--
 
 /**
- * Copyright (c) 2014 Acniti (http://www.acniti.com) 
+ * Copyright (c) 2014-2015 Hortindustrias Ltd. 
  * Copyright (c) 2010-12 Prudento (http://www.prudento.com)
  * Copyright (c) 2009 Madcap B.V. (http://madcap.nl)
  * All rights reserved.
@@ -20,7 +20,7 @@
 -->
 
 <h1>Nederlandse vertaling voor SuiteCRM</h1>
-De Nederlandse vertaling van SuiteCRM wordt gratis beschikbaar gesteld door Acniti (<a target="_blank" href="http://www.acniti.com">http://www.acniti.com</a>).
+De Nederlandse vertaling van SuiteCRM wordt gratis beschikbaar gesteld door Hortindustrias (<a target="_blank" href="http://www.hortindustries.com">http://www.hortindustries.com</a>).
 <ul>
   
   <li>
@@ -39,8 +39,8 @@ Om een module te hernoemen kunt u de opties in het Configuratie scherm gebruiken
 enkelvoudige, meervoudige als het geslacht van het woord opgeven en deze zullen door heel SuiteCRM
 heen worden gebruikt.
 <br /><br />
-<a href="http://www.acniti.com" target="_blank">
-  <img alt="Acniti" border=0 src="custom/include/dutch/images/acniti.png">
+<a href="http://www.hortindustrias.com" target="_blank">
+  <img alt="Horindustrias" border=0 src="custom/include/dutch/images/acniti.png">
 </a>
 <br /><br />
 Met dank aan 

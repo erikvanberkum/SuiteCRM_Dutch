@@ -2,7 +2,7 @@
 /**
  * 
  * Dutch Language file SuiteCRM version 7 
- * Copyright (c) 2014 Acniti (http:/www.acniti.com)
+ * Copyright (c) 2014-2015 Hortindustrias Ltd.
  * 
  *  @package SuiteCRM
  * @copyright SalesAgility Ltd http://www.salesagility.com

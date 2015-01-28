@@ -1,6 +1,6 @@
 <?php
 /**
- * Copyright (c) 2014 Acniti (http://www.acniti.com)
+ * Copyright (c) 2014-2015 Hortindustrias Ltd.
  * All rights reserved.
  *
  * Permission is granted for use, copying, modification, distribution,

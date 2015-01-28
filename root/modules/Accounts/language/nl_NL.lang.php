@@ -1,7 +1,7 @@
 <?php
 if (!defined('sugarEntry') || !sugarEntry)   die('Not A Valid Entry Point');
 /**
- * Copyright (c) 2014 Acniti (http:/www.acniti.com) 
+ * Copyright (c) 2014-2015 Hortindustrias Ltd.
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * Copyright (c) 2007-2009 Madcap BV (http://www.madcap.nl)
  * All rights reserved.
