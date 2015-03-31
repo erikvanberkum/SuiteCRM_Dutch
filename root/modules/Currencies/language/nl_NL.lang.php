@@ -49,5 +49,7 @@ $mod_strings = array (
     'Inactive' => 'Inactief',
 ),
 'LBL_CREATED_BY' => 'Gemaakt door',
-'LBL_EDIT_LAYOUT' => 'Wijzig lay-out',  /*for 508 compliance fix*/
+'LBL_EDIT_LAYOUT' => 'Wijzig lay-out'  /*for 508 compliance fix*/,
 );
+
+?>
