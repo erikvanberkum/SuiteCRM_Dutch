@@ -34,7 +34,7 @@ $app_strings['LBL_QUICK_CALL'] = 'Log Telefoongesprek';
 $app_strings['LBL_QUICK_TASK'] = 'Aanmaken Taak';
 $app_strings['LBL_COLLECTION_TYPE'] = 'Type';
 
-$app_strings['LBL_ADD_TAB'] = 'Add Tab';
+$app_strings['LBL_ADD_TAB'] = 'Aanmaken tabblad';
 $app_strings['LBL_SUITE_DASHBOARD'] = 'Suite Dashboard';
 $app_strings['LBL_ENTER_DASHBOARD_NAME'] = 'Voerin Dashboard Naam:';
 $app_strings['LBL_NUMBER_OF_COLUMNS'] = 'Aantal kolommen:';

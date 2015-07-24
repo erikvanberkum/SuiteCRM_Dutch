@@ -3,7 +3,7 @@ if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 
 /**
- * Dutch Language file SuiteCRM version 7 
+ * Dutch Language file SuiteCRM version 7
  * Copyright (c) 2014-2015 Hortindustrias Ltd.
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * Copyright (c) 2007-2009 Madcap BV (http://www.madcap.nl)
@@ -57,7 +57,6 @@ $mod_strings = array (
   'COLUMN_TITLE_AUTOINC_NEXT' => 'Automatisch ophogen volgende waarde',
   'COLUMN_DISABLE_NUMBER_FORMAT' => 'Uitschakelen formatering',
   'COLUMN_TITLE_ENABLE_RANGE_SEARCH' => 'Inschakelen reeks zoeken',
-  'COLUMN_TITLE_GLOBAL_SEARCH' => 'Globaal zoeken',
 'LBL_DROP_DOWN_LIST' => 'Drop-down lijst',
 'LBL_RADIO_FIELDS' => 'Radio velden',
 'LBL_MULTI_SELECT_LIST' => 'Multi selectie lijst',
@@ -97,5 +96,5 @@ $mod_strings = array (
 'LBL_VISIBLE_IF' => 'Zichtbaar Als',
 'LBL_ENFORCED' => 'Afgedwongen',
 'LBL_HELP' => 'Help',
-'COLUMN_TITLE_VALIDATE_US_FORMAT' => 'US-formaat',
+'COLUMN_TITLE_INLINE_EDIT_TEXT'=>'In lijn bewerken',
 );

@@ -1,0 +1,228 @@
+/**
+ * Dutch Language file SuiteCRM version 7
+ * Copyright (c) 2014-2015 Hortindustrias Ltd.
+ * All rights reserved.
+ *
+ * Permission is granted for use, copying, modification, distribution,
+ * and distribution of modified versions of this work as long as the
+ * above copyright notice is included.
+ */
+Developers change notes sugarCRM Dutch Language Files to SuiteCRM 7.2.1 28 April 2015
+Start tracking changes github 7-04-2014
+custom/Extension/application/Ext/Language\nl_NL.Reschedule.php Changed 20150427
+custom/application/Ext/Language\nl_NL.lang.ext.php Changed 20150427
+
+
+
+
+Developers change notes sugarCRM Dutch Language Files to SuiteCRM 7.1.0 till April 2015
+
+Diff modules/Accounts/language/nl_NL.lang.php   added various variables, updated spelling errors
+Diff modules/ACL/language/nl_NL.lang.php added 2 new variables
+Diff module/ACLActions/language/nl_NL.lang.php rewrote whole file
+Diff modules/ACLRoles/language/  no changes
+Created following missing directories:
+    AOD_IndexEvent/language
+    AOP_Case_Events/language
+    AOP_Case_Events//language
+    AOP_Case_Updates /language
+    AOR_Charts/language/language
+    AOR_Conditions/language
+    AOR_Fields/language
+    AOR_Reports/language
+    AOS_Contracts/language/nl_nl.lang.php   (added existing file)
+    AOS_Invoices/language/nl_nl.lang.php
+    AOS_Line_Item_Groups/language/nl_nl.lang.php
+    AOS_PDF_Templates/language/nl_nl.lang.php
+    AOS_Product_Categories/language/
+    AOS_Products/language/nl_nl.lang.php
+    AOS_Products_Quotes/language/nl_nl.lang.php
+    AOS_Quotes/language/nl_nl.lang.php
+    AOW_Actions/language/
+    AOW_Conditions/language/
+    AOW_Processed/language/
+    AOW_WorkFlow/language/
+    Calls_Reschedule/languages
+    Delegates/languages
+    FP_Event_Locations/language
+    FP_Event/language
+    iCals/language
+    jjwg_Address_Cache/language
+    jjwg_Areas/language
+    jjwg_Maps/language
+    jjwg_Markers/language
+    SecurityGroups/language
+    vCals/language
+    AOD_IndexEvent
+Marked following directories as obsolate:
+    Dashboard_obsolate
+    EditCustomFields_obsolate
+    Feeds_obsolate
+    iFrames_obsolate
+    modules/Activities/language/l_NL.help.index.html obsolate
+    modules/Bugs/language/set of html files obsolate
+    modules/Calendar/language/ contains html files
+    modules/Calls/language/ contains various html files
+Diff modules/Activities/language/nl_NL.lang.php no changes bottom file order not similar
+To translate modules/Administration/nl_NL.lang.php this is 1100 lines of translation work
+Translated modules/AOD_Index
+SuiteCRM File modules/AOS_Contracts/language/nl_nl.lang.php
+SuiteCRM File modules/AOS_Invoices/language/nl_nl.lang.php
+SuiteCRM File modules/AOS_Line_Groups/language/nl_nl.lang.php
+SuiteCRM File modules/AOS_PDF_Templates/language/nl_nl.lang.php
+SuiteCRM File modules/AOS_Products/language/nl_nl.lang.php
+SuiteCRM File modules/AOS_Products_Quotes/language/nl_nl.lang.php
+SuiteCRM File modules/AOS_Quotes/language/nl_nl.lang.php
+Diff modules/Audit/language/nl_NL.lang.php no changes detected
+Diff modules/Bugs/language/nl_NL.lang.php  minor changes detected
+GitHub Commit Changes 20140401
+Diff modules/Calendar/language/nl_NL.lang.php
+  remark days and months different notation: '0' => 'Zo', versus in english "Sun",
+Diff modules/Calls/language/nl_NL.lang.php
+Diff modules/Calls_Reschedule/language/nl_NL.lang.php  translated all new file (check if translated well reschedule with opnieuw plannen)
+Correction Nederland to NL conform other languages /root/include/language/nl_NL.lang.php
+Diff modules/Campaigns/language/nl_NL.lang.php added few entries and synchronised lines with English
+Diff modules/CampaignsTrackers/language/nl_NL.lang.php no changes
+Diff modules/Cases/language/nl_NL.lang.php       LBL_LIST_ASSIGNED_TO_NAME in english version 2 times
+Diff modules\Charts\language\nl_NL.lang.php     added dutch language file version 7
+Diff modules\Connectors\language\nl_NL.lang.php
+Diff \modules\Contacts\language\nl_NL.lang.php
+Diff \modules\DocumentRevisions\language\nl_NL.lang.php
+Diff \modules\Delegates\language\nl_NL.lang.php
+Diff \modules\Documents\language\nl_NL.lang.php
+Diff \modules\DynamicFields\language\nl_NL.lang.php
+Diff \modules\EAPM\language\nl_NL.lang.php
+Diff \modules\EmailAddresses\language\nl_NL.lang.php
+Diff \modules\EmailMan\language\nl_NL.lang.php
+Diff \modules\EmailMarketing\language\nl_NL.lang.php
+Diff \modules\Emails\language\nl_NL.lang.php
+Diff \modules\EmailTemplates\language\nl_NL.lang.php
+\modules\EmailText\language\nl_NL.lang.php   No english file available??????
+Diff \modules\Employees\language\nl_NL.lang.php
+Created \modules\FP_Event_Locations\language\nl_NL.lang.php
+Created \modules\FP_events\language\nl_NL.lang.php
+Diff \modules\Groups\language\nl_NL.lang.php
+Diff \modules\Help\language\nl_NL.lang.php
+Diff \modules\History\language\nl_NL.lang.php
+Diff \modules\Home\language\nl_NL.lang.php
+Diff \modules\Import\language\nl_NL.lang.php
+Diff \modules\InboundEmail\language\nl_NL.lang.php
+Created \modules\jjwg_Address_Cache\language\nl_NL.lang.php
+Created \modules\jjwg_Areas\language\nl_NL.lang.php
+Created \modules\jjwg_Maps\language\nl_NL.lang.php
+Created \modules\jjwg_Markers\language\nl_NL.lang.php
+Diff \modules\LabelEditor\language\nl_NL.lang.php no changes
+Diff \modules\Leads\language\nl_NL.lang.php
+Diff \modules\MailMerge\language\nl_NL.lang.php
+Diff \modules\Meetings\language\nl_NL.lang.php
+Diff \modules\MergeRecords\language\nl_NL.lang.php
+To translate \modules\ModuleBuilder\language\nl_NL.lang.php  this is 726 lines of translation work and not previous done, since these are administration files no priority is given to this right now.
+Diff \modules\MySettings\language\nl_NL.lang.php no changes
+Diff \modules\Notes\language\nl_NL.lang.php
+Diff \modules\OAuthKeys\language\nl_NL.lang.php no changes
+Diff \modules\OAuthTokens\language\nl_NL.lang.php
+Diff \modules\Opportunities\language\nl_NL.lang.php
+Diff \modules\OptimisticLock\language\nl_NL.lang.php no changes
+Diff \modules\Project\language\nl_NL.lang.php
+Diff \modules\ProjectTask\language\nl_NL.lang.php
+Diff \modules\ProspectLists\language\nl_NL.lang.php
+Diff \modules\Prospects\language\nl_NL.lang.php
+Diff \modules\Relationships\language\nl_NL.lang.php no changes
+Diff \modules\Releases\language\nl_NL.lang.php
+Diff \modules\Roles\language\nl_NL.lang.php
+Diff \modules\SavedSearch\language\nl_NL.lang.php
+Diff \modules\Schedulers\language\nl_NL.lang.php
+Commit Changes 20140503
+Added file \modules\SecurityGroups\language\nl_NL.lang.php  already availabel in suiteCRM
+Diff \modules\SchedulersJobs\language\nl_NL.lang.php
+Diff \modules\Studio\language\nl_NL.lang.php
+Diff \modules\SugarFeed\language\nl_NL.lang.php
+Diff \modules\Tasks\language\nl_NL.lang.php
+Diff \modules\Trackers\language\nl_NL.lang.php
+Diff \modules\UpgradeWizard\language\nl_NL.lang.php large file to translate only upgrade wizard not for users important
+Cant find en_us language file in suiteCRM directory \modules\UserPreferences\language\nl_NL.lang.php
+Diff \modules\Users\language\nl_NL.lang.php
+Diff \modules\Versions\language\nl_NL.lang.php
+Diff double check \modules\Accounts\language\nl_NL.lang.php
+Diff double check \modules\ACLRoles\language\nl_NL.lang.php
+Commit changes Changes 20140504
+Diff \root\include\SugarObjects\templates\basic\language\nl_NL.lang.php
+obsolate???? \root\include\SugarObjects\templates\chance\language\application\nl_NL.lang.php
+obsolate???? \root\include\SugarObjects\templates\chance\language\nl_NL.lang.php
+Diff \root\include\SugarObjects\templates\company\language\application\nl_NL.lang.php is different kept unchanged $app_list_strings = array (
+Diff \root\include\SugarObjects\templates\file\language\nl_NL.lang.php
+Diff \root\include\SugarObjects\templates\issue\language\nl_NL.lang.php
+Diff \root\include\SugarObjects\templates\person\language\nl_NL.lang.php
+Diff \root\include\SugarObjects\templates\sale\language\application\nl_NL.lang.php
+Diff \root\include\SugarObjects\templates\sale\language\nl_NL.lang.php  partyly english not sure why
+Created \custom\Extension\application\Ext\Language\nl_NL.suitecrm.php
+Created \custom\Extension\application\Ext\Language\nl_NL.sps.php
+Created \custom\Extension\application\Ext\Language\nl_NL.social_fields.php
+Created \custom\Extension\application\Ext\Language\nl_NL.Social.php
+Created \custom\Extension\application\Ext\Language\nl_NL.Reschedule.php
+Created \custom\Extension\application\Ext\Language\nl_NL.Google_Maps_20130815.php
+Created \custom\Extension\application\Ext\Language\nl_NL.Google_Maps_20131011.php
+Created \custom\Extension\application\Ext\Language\nl_NL.Advanced OpenEvents.php
+Created \custom\Extension\application\Ext\Language\nl_NL.AdvancedOpenDiscovery.php
+Created \custom\Extension\application\Ext\Language\nl_NL.AdvancedOpenPortal.php
+Created \custom\Extension\application\Ext\Language\nl_NL.AdvancedOpenReports.php
+Created \custom\Extension\application\Ext\Language\nl_NL.AdvancedOpenWorkflow.php
+Created \custom\Extension\application\Ext\Language\nl_NL.AdvancedOpenSales.php
+Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.AdvancedOpenSales.php
+Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.AODAdmin.php
+Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.AOPAdmin.php
+Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.colourAdmin.php
+Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.Google_Maps_20130815.php
+Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.Reschedule.php
+Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.QuickCRM_Mobile_CE.php
+Created \custom\Extension\modules\Administration\Ext\Language\nl_NL.Google_Maps_20131011.php
+Created \custom\Extension\modules\DynamicFields\Ext\Language\nl_NL.AdvancedOpenPortal.php
+Created \custom\Extension\modules\FP_Event_Locations\Ext\Language\nl_NL.Advanced OpenEvents.php
+Created \custom\Extension\modules\FP_events\Ext\Language\nl_NL.Advanced OpenEvents.php
+Created \custom\Extension\modules\jjwg_Areas\Ext\Language\nl_NL.Google_Maps_20130815.php
+Created \custom\Extension\modules\jjwg_Areas\Ext\Language\nl_NL.Google_Maps_20131011.php
+Created \custom\Extension\modules\jjwg_Maps\Ext\Language\nl_NL.Google_Maps_20130815.php
+Created \custom\Extension\modules\jjwg_Maps\Ext\Language\nl_NL.Google_Maps_20131011.php
+Created \custom\Extension\modules\jjwg_Markers\Ext\Language\nl_NL.Google_Maps_20130815.php
+Created \custom\Extension\modules\jjwg_Markers\Ext\Language\nl_NL.Google_Maps_20131011.php
+Created \custom\Extension\modules\ModuleBuilder\Ext\Language\nl_NL.AdvancedOpenPortal.php
+Created \custom\Extension\modules\Schedulers\Ext\Language\nl_NL.AdvancedOpenDiscovery.php
+Created \custom\Extension\modules\Schedulers\Ext\Language\nl_NL.AdvancedOpenPortal.php
+Created \custom\Extension\modules\Schedulers\Ext\Language\nl_NL.AdvancedOpenWorkflow.php
+Created \custom\Extension\modules\Users\Ext\Language\nl_NL.suitecrm.php
+Diff \root\include\language\nl_NL.lang.php
+Created \modules\Connectors\connectors\sources\ext\rest\linkedin\language\nl_NL.lang.php
+Created  \modules\Connectors\connectors\sources\ext\rest\insideview\language\nl_NL.lang.php
+--start version 7.2.--
+Menu problems solved with suitecrm 7.1.5 update not language pack related bug, also beta 7.2 menu works well.
+Changed translation cases from klachten to dossiers and klacht to dossier
+
+
+Errors and clean up messeges:
+
+Undefined property: aCase::$kbdocuments in /var/www/crm2/modules/Configurator/views/view.historycontactsemails.php on line 93,
+PHP Fatal error:  Call to a member function getRelatedModuleName() on a non-object in /var/www/crm2/modules/Configurator/views/view.historycontactsemails.php on line 93,
+
+Remarks,
+The all menu (alles) will be displayed in a single row. While english will be displayed in double rows.
+This is an theme error and will be fixed in a future release of 7.1.1. look at the forum for more information.
+http://www.suitecrm.com/index.php?option=com_kunena&view=topic&catid=8&id=1206&Itemid=1136
+
+This is a possible bug not yet checked if you experience this please report on the forums
+!!!! check bug in aos in detailedview when making a customisation: /var/www/crm2/custom/modules/AOS_Quotes/metadata/detailed view.
+set from max 2 colums to 1 colum! Check if reproduceble  in a standard suitecrm install.
+
+Bug
+in file \GitHub\suitecrm7.1.1\modules\Studio\wizards\RenameModules.tpl this has to be reported to sugar suitecrm forum.
+ states {sugar_getscript file="include/javascript/yui/dragdrop.js"}
+ but should be include/javascript/yui/build/dragdrop/dragdrop.js
+
+
+
+
+
+
+
+
+
+
