@@ -3,7 +3,7 @@ if (!defined('sugarEntry') || !sugarEntry)
   die('Not A Valid Entry Point');
 
 /**
- * Dutch Language file SuiteCRM version 7 
+ * Dutch Language file SuiteCRM version 7
  * CCopyright (c) 2014-2015 Hortindustrias Ltd.
  * Copyright (c) 2010-2012 Prudento (http://www.prudento.com)
  * Copyright (c) 2007-2009 Madcap BV (http://www.madcap.nl)
@@ -15,10 +15,10 @@ if (!defined('sugarEntry') || !sugarEntry)
  */
 
 $mod_strings = array (
-	
-  
+
+
   'LBL_RE'					=> 'RE:',
-  
+
   'ERR_BAD_LOGIN_PASSWORD' => 'Gebruikersnaam of wachtwoord incorrect.',
   'ERR_BODY_TOO_LONG' => '\rBody tekst te lang voor FULL commando. Getrimd.',
   'ERR_INI_ZLIB' => 'Kon Zlib niet tijdelijk uitschakelen. "Test instellingen" zal wellicht niet werken.',
@@ -26,7 +26,7 @@ $mod_strings = array (
   'ERR_NO_IMAP' => 'Geen IMAP libraries gevonde. Los dit probleem op voordat u doorgaat met ingaande e-mail.',
   'ERR_NO_OPTS_SAVED' => 'Er zijn geen optimale instellingen gevonden voor uw inkomende e-mail. Controleer aub uw instellingen.',
   'ERR_TEST_MAILBOX' => 'Controleer je instellingen en probeer het nog eens.',
-  
+
   'LBL_APPLY_OPTIMUMS' => 'Pas optimale instellingen toe',
   'LBL_ASSIGN_TO_USER' => 'Toewijzen aan gebruiker',
   'LBL_AUTOREPLY_OPTIONS' => 'Opties automatisch beantwoorden',
@@ -60,12 +60,12 @@ $mod_strings = array (
   'LBL_FORCE' => 'Forceer negatief',
   'LBL_FOUND_MAILBOXES' => 'De volgende bruikbare mappen zijn gevonden. <br> Klik op een om te kiezen:',
   'LBL_FOUND_OPTIMUM_MSG' => '<br> Optimale instellingen gevonden. Druk op de onderstaande knop om ze toe te passen op uw e-mailaccount.',
-  'LBL_FROM_ADDR' => '\'Van\' adres',
+  'LBL_FROM_ADDR' => '"Van" adres',
    // as long as XTemplate doesn't support output escaping, transform
-    // quotes to html-entities right here (bug #48913)
+   // quotes to html-entities right here (bug #48913)
   'LBL_FROM_ADDR_DESC' => 'Het emailadres hier aangegeven wordt mogelijk niet getoond in het \"Van\"-adres deel van de verstuurde email vanwege beperkingen opgelegd door de mailservice provider. In deze gevallen zal het emailadres gebruikt worden dat is ingesteld in de uitgaande mailserver.',
   'LBL_FROM_NAME_ADDR' => 'Afzender naam/e-mail',
-  'LBL_FROM_NAME' => '\'Van\' naam',
+  'LBL_FROM_NAME' => '"Van" naam',
   'LBL_GROUP_QUEUE' => 'Wijs toe aan group',
   'LBL_HOME' => 'Start',
   'LBL_LIST_MAILBOX_TYPE' => 'Mailbox gebruik',
@@ -75,7 +75,7 @@ $mod_strings = array (
   'LBL_LIST_STATUS' => 'Status:',
   'LBL_LOGIN' => 'Gebruikersnaam',
   'LBL_MAILBOX_DEFAULT' => 'INBOX',
-  'LBL_MAILBOX_SSL_DESC' => 'Gebruik SSL om verbinding te maken. Als dit niet werkt, controleer dat je PHP installatie \'--with-imap-ssl\' in de configuratie heeft staan.',
+  'LBL_MAILBOX_SSL_DESC' => 'Gebruik SSL om verbinding te maken. Als dit niet werkt, controleer dat je PHP installatie "--with-imap-ssl" in de configuratie heeft staan.',
   'LBL_MAILBOX_SSL' => 'Gebruik SSL',
   'LBL_MAILBOX_TYPE' => 'Mogelijke acties',
 	'LBL_DISTRIBUTION_METHOD' => 'Distribution methode',
@@ -159,7 +159,7 @@ $mod_strings = array (
   'LBL_ASSIGN_TO_GROUP_FOLDER' => 'Toewijzen aan groepmap',
   'LBL_ALLOW_OUTBOUND_GROUP_USAGE' => 'Stel gebruikers in staat om e-mails te versturen met het \"Van\" Naam en adres als antwoord-adres.',
   'LBL_ALLOW_OUTBOUND_GROUP_USAGE_DESC' => 'Als deze optie is geselecteerd, zal de Van naam en van E-mail Adres van dit groeps mailaccount als optie verschijnen voor het \"Van\" veld bij de aanmaak van e-mails voor gebruikers die toegang hebben tot de groep mailaccount hebben.',
-  'LBL_STATUS_ACTIVE'																		=> 'Actief',
+  'LBL_STATUS_ACTIVE' => 'Actief',
   'LBL_STATUS_INACTIVE'=> 'Inactief',
   'LBL_IS_PERSONAL'=> 'persoonlijk',
   'LBL_IS_GROUP'=> 'groep',
